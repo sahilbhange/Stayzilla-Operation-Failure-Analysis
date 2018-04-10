@@ -1,0 +1,1140 @@
+"","property_name","city_class","room_types","image_count","property_type","service_value","Accept_Rate","Response_time","amenities_cnt","description_cnt","rm_price","similar_hotel_cnt","Kids","Adults","room_type_cat","city_class_cat"
+"1","Sangsey Valley Resort","Urban","3 Bedded Non AC",3,"6","0",100,6,2,127,3167,2,"2","3",4,4
+"2","Hotel Amantran Kanpur","Metropolitan","Double Non AC",0,"3","0",100,6,2,112,815,6,"2","2",15,1
+"3","Hotel Krishna","Metropolitan","Double AC",18,"3","0",100,6,4,112,1624,14,"2","2",14,1
+"4","The Riverwood Forest Retreats","Urban","Single AC",9,"3","0",100,6,7,129,3509,2,"2","1",17,4
+"5","Hotel Vijay Inter Continental","Metropolitan","Double AC",5,"3","0",100,6,2,136,5802,3,"2","2",14,1
+"6","Hotel Red Rose","Urban","Double AC",60,"3","0",100,6,5,110,1400,12,"2","2",14,4
+"7","Hotel Inn Season","Metropolitan","Double AC",0,"3","0",100,6,2,96,4062,3,"2","2",14,1
+"8","Velankanni Lake Resort","Semi-urban","Cottage",12,"6","0",100,6,2,112,2878,2,"2","1",12,3
+"9","Hotel Novelty","Urban","Double Non AC",32,"3","0",100,24,2,104,979,9,"2","2",15,4
+"10","Hotel Siddharth Kailash","Metropolitan","Double AC",41,"3","0",100,6,6,124,2445,12,"2","2",14,1
+"11","Kapurthala Guest House","Urban","Double Non AC",1,"4","0",100,6,6,2,1039,10,"2","2",15,4
+"12","Hotel Sonar Bangla","Semi-urban","Double Non AC",7,"3","0",100,6,2,123,2809,6,"2","2",15,3
+"13","Hotel Ishani","Rural","Double Non AC",13,"3","0",60,24,2,102,950,11,"2","2",15,2
+"14","Hotel Victoria","Rural","Double Non AC",11,"3","0",100,6,2,2,756,9,"2","2",15,2
+"15","Royal Park Hotel","Urban","Single Non AC",8,"3","0",100,6,9,150,3986,2,"2","1",18,4
+"16","Tranquility Homestay","Metropolitan","Double AC",7,"2","0",100,6,2,5,1134,10,"2","2",14,1
+"17","Fun World","Metropolitan","Double Non AC",33,"3","0",100,6,2,10,2237,14,"2","2",15,1
+"18","Hotel Ocean Grand","Urban","Double Non AC",0,"3","0",100,6,2,122,889,5,"2","2",15,4
+"19","Renuka Lodge (Peddha Masjid Centre)","Urban","Single Non AC",9,"5","0",100,6,3,125,473,4,"1","1",18,4
+"20","Hotel Samrat","Urban","One Day Use",56,"3","0",100,6,4,113,865,10,"2","0",16,4
+"21","Yashoda Homes","Urban","Double AC",28,"3","0",100,6,4,164,1417,2,"1","2",14,4
+"22","Shivam Paying Guest house","Metropolitan","Single Non AC",0,"4","0",100,6,2,110,445,13,"2","1",18,1
+"23","Shahi Guest House","Metropolitan","Suite",14,"4","0",100,6,2,82,2667,3,"2","2",19,1
+"24","Hotel Sahil Palace","Urban","Double AC",54,"3","0",100,6,2,102,834,10,"2","2",14,4
+"25","Rathore Villas","Metropolitan","Double AC",14,"8","1",100,6,4,41,1179,7,"2","2",14,1
+"26","Hotel Safari","Urban","Single Non AC",56,"3","0",100,6,3,141,307,2,"1","1",18,4
+"27","Sunrise Guest House","Metropolitan","Double Non AC",18,"4","0",100,6,4,135,756,6,"2","2",15,1
+"28","Hotel Ajay","Urban","Double Non AC",21,"3","0",100,6,3,97,1112,9,"2","2",15,4
+"29","The Elgin Silver Oaks","Urban","Single Non AC",6,"3","0",100,6,2,115,6864,2,"2","1",18,4
+"30","Hotel Swarna Palace (Near Trust Hospital)","Urban","Single Non AC",0,"3","0",100,6,2,117,400,5,"1","1",18,4
+"31","Ram Singh Palace","Urban","Double Non AC",33,"3","0",100,24,2,134,473,3,"2","2",15,4
+"32","Hotel Savera","Urban","Double Non AC",22,"3","0",100,6,2,2,500,9,"2","2",15,4
+"33","Hotel Aristocrat","Urban","Double Non AC",29,"3","0",100,6,2,71,500,3,"2","2",15,4
+"34","Hotel Seagull","Rural","Double Non AC",12,"3","0",22,1,2,110,1569,13,"2","2",15,2
+"35","Hotel Aditya International","Rural","Double AC",5,"3","0",0,0,2,118,2323,12,"2","2",14,2
+"36","Nandha Hotel","Urban","Single AC",6,"3","0",100,6,2,103,723,6,"1","1",17,4
+"37","Hotel Prince","Metropolitan","Single AC",0,"3","0",100,6,2,114,1156,12,"1","1",17,1
+"38","Resort Murti","Urban","Double Non AC",10,"6","0",25,1,5,2,1250,8,"2","2",15,4
+"39","Neel Pahari Resort","Urban","Double Non AC",2,"6","0",100,6,2,118,1067,5,"2","2",15,4
+"40","Hotel Surya Banquet","Urban","Double Non AC",5,"3","0",100,6,6,95,976,2,"2","2",15,4
+"41","Hotel Waves","Rural","Double AC",2,"3","0",100,6,2,2,1355,12,"2","2",14,2
+"42","Hotel Kiran Vilas Heritage","Metropolitan","Double AC",11,"3","0",100,6,2,121,2889,14,"2","2",14,1
+"43","Vista Rooms at Achal Nath Temple","Metropolitan","Single AC",39,"3","0",100,6,4,115,1417,12,"2","2",17,1
+"44","Hotel French Residency","Urban","Double Non AC",5,"3","0",100,6,3,148,778,5,"2","2",15,4
+"45","Devi Bhawan","Metropolitan","Double AC",0,"3","0",100,6,2,92,3328,12,"2","2",14,1
+"46","Jaya Residency","Urban","Single Non AC",0,"3","0",100,6,6,96,1718,2,"1","1",18,4
+"47","Hotel Aryan","Urban","Single AC",0,"3","0",100,6,2,101,1268,6,"2","1",17,4
+"48","Sher E Kashmir Guest House","Urban","Double Non AC",0,"4","0",100,6,2,2,473,7,"2","2",15,4
+"49","Ravi Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,2,2,15889,2,"2","2",15,1
+"50","Dalamwala Hotel","Urban","Double AC",0,"3","0",100,6,7,148,1512,3,"2","2",14,4
+"51","Hotel Amrita","Urban","Double Non AC",38,"3","0",100,6,4,112,1076,9,"2","2",15,4
+"52","Hotel Himalaya","Urban","Double Non AC",19,"3","0",100,6,2,2,612,2,"2","2",15,4
+"53","Hotel Maha Roopa Palace","Metropolitan","Single Non AC",29,"3","0",100,6,2,85,889,10,"1","1",18,1
+"54","Hotel Shashi Palace","Urban","Single Non AC",19,"3","0",50,1,2,2,178,2,"2","1",18,4
+"55","Takhat Vilas","Metropolitan","Double Non AC",12,"3","0",100,6,2,128,2250,14,"2","2",15,1
+"56","Tourist Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,2,2,300,2,"2","2",15,1
+"57","Santosh Guest House","Metropolitan","Double Non AC",11,"4","0",100,6,2,133,889,11,"2","2",15,1
+"58","Hotel The Thar Oasis Resort And Camp","Metropolitan","Single Non AC",40,"6","0",100,6,2,138,6033,2,"2","1",18,1
+"59","Hotel Amrit","Metropolitan","Single Non AC",0,"3","0",100,6,4,109,436,2,"1","1",18,1
+"60","Hotel Cozy Inn","Rural","Double Non AC",7,"3","0",0,16,2,116,750,10,"2","2",15,2
+"61","Hotel Rajdhani","Urban","Single Non AC",28,"3","0",100,6,2,99,400,3,"1","1",18,4
+"62","Hotel Ashoka","Metropolitan","Single AC",26,"3","0",100,6,5,2,936,9,"2","2",17,1
+"63","Hotel Raas","Metropolitan","Double AC",6,"3","0",100,6,2,132,18606,2,"2","2",14,1
+"64","Bombay Lodge","Metropolitan","Single Non AC",0,"5","0",100,6,2,95,156,2,"1","1",18,1
+"65","JRDT Home Stay","Semi-urban","Double AC",19,"3","1",100,6,5,32,1112,2,"1","2",14,3
+"66","Hotel Ashoka New Diamond","Urban","Double AC",53,"3","0",100,6,2,110,1413,10,"2","2",14,4
+"67","Zostel Jodhpur","Metropolitan","Dormitary",9,"3","0",100,6,2,111,410,2,"2","8",13,1
+"68","Jammu International Hotel","Urban","Double Non AC",34,"3","0",100,23,2,2,934,7,"2","2",15,4
+"69","Chennai Palm House","Urban","3 BHK",12,"4","0",100,6,3,24,5334,2,"2","6",5,4
+"70","Vijay Resorts Hotel","Metropolitan","Double AC",0,"6","0",100,6,6,125,1112,12,"2","2",14,1
+"71","Eco Villa Resort","Semi-urban","Cottage",9,"8","0",100,6,3,92,1600,4,"2","2",12,3
+"72","Ajit Bhawan Hotel","Metropolitan","Single Non AC",6,"3","0",100,6,2,129,8334,2,"2","1",18,1
+"73","Shyam Palace Guest House","Metropolitan","Single Non AC",14,"4","0",100,6,2,104,334,10,"1","1",18,1
+"74","Udupi Sree Durga Lodge","Urban","Single Non AC",4,"5","0",100,6,2,120,445,6,"1","1",18,4
+"75","Mandore Guest House","Metropolitan","Double AC",45,"4","0",100,6,5,82,2667,2,"2","2",14,1
+"76","Hotel Royal Galaxy","Metropolitan","Double AC",7,"3","0",100,6,5,109,1445,10,"2","2",14,1
+"77","Sterling Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,2,93,802,4,"2","2",15,1
+"78","Hotel Pioneer Plaza","Metropolitan","Double AC",2,"3","1",100,6,2,100,1265,5,"2","2",14,1
+"79","New Hotel Samrat","Rural","Double Non AC",3,"3","0",100,1,2,2,400,2,"2","2",15,2
+"80","Hotel Ajit Mansion","Metropolitan","Single Non AC",9,"3","0",100,6,2,197,1965,8,"2","1",18,1
+"81","Hotel Inder Inn","Metropolitan","Single AC",10,"3","0",100,6,2,103,1107,9,"2","1",17,1
+"82","Hotel Sun And Swad Palace","Rural","Double AC",2,"3","0",100,6,2,2,1278,12,"2","2",14,2
+"83","The Citi Inn","Metropolitan","Double AC",16,"3","0",100,6,6,113,2943,12,"2","2",14,1
+"84","Hotel Asia Shripati","Urban","Double Non AC",69,"3","0",100,6,2,123,3223,10,"2","2",15,4
+"85","Status Club","Metropolitan","Double AC",7,"3","0",100,6,2,139,4438,2,"2","2",14,1
+"86","Sri Krishna Residency (Ramaraopeta)","Urban","Double Non AC",2,"3","0",100,6,3,110,473,13,"2","2",15,4
+"87","Hotel Madhuram Royale","Metropolitan","Double AC",28,"3","0",100,6,2,126,2667,14,"2","2",14,1
+"88","Tashi Home Stay","Urban","Double Non AC",4,"3","1",100,6,2,195,980,11,"2","2",15,4
+"89","Hotel Santiniketan","Rural","Double Non AC",13,"3","0",100,6,7,110,1262,13,"2","2",15,2
+"90","Basanti Lodge","Urban","Single Non AC",24,"5","0",100,6,2,139,300,2,"1","1",18,4
+"91","Pakyong Homestay","Urban","Double Non AC",5,"2","0",100,6,2,6,567,2,"1","2",15,4
+"92","Ambey Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,2,2,500,3,"2","2",15,1
+"93","Resort Sonar Bangla Jalpaiguri","Urban","Double Non AC",3,"6","0",100,6,2,160,900,2,"2","2",15,4
+"94","Shree Ji Homestay","Urban","Double AC",22,"2","1",100,6,2,7,756,2,"1","2",14,4
+"95","Hotel Fort View","Urban","Double Non AC",37,"3","0",100,21,4,102,556,10,"2","2",15,4
+"96","Shangrila Resort And Water Park","Metropolitan","Double AC",9,"6","0",100,6,2,91,4458,2,"2","2",14,1
+"97","SZ Homestay","Urban","Single Non AC",7,"2","1",56,1,3,33,2,2,"1","1",18,4
+"98","Hotel Royal Occassions","Metropolitan","Single Non AC",0,"3","0",100,6,3,112,889,11,"1","1",18,1
+"99","Hotel Mansar","Urban","Double Non AC",66,"3","0",100,6,2,103,1556,11,"2","2",15,4
+"100","Swagath Residency","Urban","Double Non AC",3,"3","0",100,10,6,98,1050,2,"2","2",15,4
+"101","Ayushs Jungle Resort","Urban","Dormitary",7,"6","0",100,6,3,165,332,10,"2","1",13,4
+"102","Hotel Ashirbad","Metropolitan","Single Non AC",0,"3","0",100,6,3,2,500,2,"2","1",18,1
+"103","Namsoi Villa","Urban","Double Non AC",0,"8","1",100,6,2,153,1700,9,"2","2",15,4
+"104","Constantia Cottage Homestay","Semi-urban","Double Non AC",25,"2","1",100,6,3,41,1417,9,"1","2",15,3
+"105","Hotel Dolphin","Urban","Double AC",40,"3","0",100,6,2,120,2267,9,"2","2",14,4
+"106","Goutam Homestay","Urban","Single Non AC",5,"2","0",100,6,2,27,662,2,"1","1",18,4
+"107","Karni Kot","Metropolitan","Single Non AC",2,"3","0",100,6,2,117,3522,3,"2","1",18,1
+"108","Bombay Beach Resort","Semi-urban","Double Non AC",6,"6","0",100,6,3,117,1649,14,"2","2",15,3
+"109","Greenlark Eco Resort","Urban","Cottage",53,"6","0",100,6,4,131,880,7,"2","2",12,4
+"110","Mehak Hotel","Urban","Double Non AC",7,"3","0",100,6,4,81,978,6,"2","2",15,4
+"111","Bhutia Homestay","Urban","Dormitary",17,"2","1",100,6,2,93,1067,2,"2","1",13,4
+"112","PRATIKSHA STAYHOME","Urban","Double AC",4,"3","1",100,6,4,7,945,2,"0","2",14,4
+"113","Hotel Vardaan Jammu","Urban","Single Non AC",11,"3","0",100,6,2,145,2334,10,"2","1",18,4
+"114","Khawas Home Stay","Urban","Double Non AC",5,"3","1",100,6,2,137,3167,4,"3","3",15,4
+"115","Shantivan Homestay","Metropolitan","Double Non AC",4,"2","1",100,6,2,5,1334,8,"0","2",15,1
+"116","Malti Palace Hotel","Urban","Double AC",27,"3","0",100,6,2,2,1778,11,"2","2",14,4
+"117","Hotel KD Palace","Metropolitan","Single AC",5,"3","0",100,6,2,130,2595,11,"2","1",17,1
+"118","Hotel Orchid Lava","Urban","Double Non AC",5,"3","0",100,6,4,87,1000,6,"2","2",15,4
+"119","Atithi Hotel","Urban","Single Non AC",33,"3","0",100,6,7,129,667,2,"1","1",18,4
+"120","Hotel Bhawna","Urban","Single Non AC",22,"3","0",100,6,2,2,389,2,"2","1",18,4
+"121","Queen Guest House","Rural","Double Non AC",6,"4","1",100,6,4,20,756,13,"0","2",15,2
+"122","Hotel Best Western SVN Grand","Urban","Single AC",12,"3","0",100,6,2,98,2394,2,"1","1",17,4
+"123","Hotel Hari Niwas Palace","Urban","Double Non AC",43,"3","0",100,6,2,154,4498,2,"2","2",15,4
+"124","Kesher Homestay","Urban","Double Non AC",8,"2","0",100,6,2,9,945,2,"1","2",15,4
+"125","Hotel Real Residency","Metropolitan","Double AC",17,"3","0",100,6,2,63,1670,11,"2","2",14,1
+"126","Hotel Pushpa","Urban","Double Non AC",4,"3","0",100,6,2,115,473,3,"2","2",15,4
+"127","Takdah Heritage Bungalow","Semi-urban","Double Non AC",11,"3","0",100,6,2,32,2834,12,"2","2",15,3
+"128","Kalimpong Park Hotel","Urban","Single Non AC",14,"3","0",100,6,2,123,2583,8,"2","1",18,4
+"129","Tourist Lodge","Urban","Double Non AC",0,"5","0",100,1,2,2,534,2,"2","2",15,4
+"130","Kalimpong Village Retreat","Urban","Cottage",4,"8","1",100,6,6,6,2787,12,"0","2",12,4
+"131","Sarswati Hotel","Urban","Single Non AC",0,"3","0",100,6,2,133,556,11,"1","1",18,4
+"132","Hotel Avon","Urban","Double Non AC",20,"3","0",100,6,2,2,667,10,"2","2",15,4
+"133","Hotel Dhoom","Metropolitan","Single Non AC",12,"3","0",100,6,4,137,695,11,"1","1",18,1
+"134","Hotel Stay View","Metropolitan","Double AC",0,"3","0",100,6,2,2,1112,14,"2","2",14,1
+"135","Sai Dham Homestay","Metropolitan","Double Non AC",4,"2","1",100,6,2,2,889,5,"2","2",15,1
+"136","Touch Wood Hotel","Urban","Double AC",6,"3","0",100,6,2,138,1250,10,"2","2",14,4
+"137","Manokamana Lodge","Urban","Single Non AC",4,"5","0",100,6,2,84,570,2,"1","1",18,4
+"138","Hotel The Plaza","Urban","Single AC",37,"3","0",100,6,2,97,1276,10,"2","1",17,4
+"139","Green Heaven Resort","Urban","Double Non AC",0,"6","0",100,6,2,2,1234,2,"2","2",15,4
+"140","Dhardo Retreat & Resorts","Urban","Double Non AC",13,"6","0",100,6,2,30,1778,2,"2","2",15,4
+"141","Vijay Residency (Rama Rao Peta)","Urban","Single Non AC",9,"3","0",100,21,3,131,516,11,"1","1",18,4
+"142","Hotel Raghunath","Urban","Double Non AC",8,"3","0",100,6,2,137,1223,9,"2","2",15,4
+"143","Hotel Ambrosia","Urban","Single AC",54,"3","0",100,6,8,125,1943,8,"1","1",17,4
+"144","Hotel India Pride","Urban","Double AC",31,"3","0",100,6,2,97,1666,10,"2","2",14,4
+"145","Hotel Blue Saphire","Urban","Double Non AC",30,"3","0",100,6,6,91,2000,10,"2","2",15,4
+"146","Royal Rais Guest house","Metropolitan","Double AC",0,"4","0",100,6,5,100,3000,2,"2","2",14,1
+"147","Kalinga Hotel","Metropolitan","Single AC",10,"3","0",100,6,2,91,2150,12,"2","1",17,1
+"148","Gorband Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,2,94,850,11,"2","2",15,1
+"149","Hotel Akshay","Metropolitan","Double Non AC",9,"3","0",100,6,5,156,934,13,"2","2",15,1
+"150","Hotel Prakash Regency","Urban","Double AC",41,"3","0",100,6,7,135,1512,2,"2","2",14,4
+"151","The Crown Hotel","Urban","Double AC",0,"3","0",100,6,2,111,3839,2,"2","2",14,4
+"152","Park View Hotel","Urban","Double AC",63,"3","0",100,18,2,104,778,10,"2","2",14,4
+"153","Hotel Rajdhani","Urban","Double Non AC",59,"3","0",100,6,3,96,889,6,"2","2",15,4
+"154","Anuj Guest House","Urban","Single Non AC",0,"4","0",100,6,2,2,389,2,"1","1",18,4
+"155","Kahini Hotel","Rural","Double Non AC",12,"3","0",0,0,4,2,778,9,"2","2",15,2
+"156","Mangala Heritage Home","Urban","Single Non AC",12,"3","0",100,6,2,100,3778,2,"2","1",18,4
+"157","Hotel Santosh Raj","Metropolitan","Double AC",16,"3","0",100,6,2,109,1147,4,"2","2",14,1
+"158","Maa Sharda Homestay","Urban","Double AC",16,"2","1",100,6,3,6,567,2,"1","2",14,4
+"159","Hotel Karni Bhawan","Metropolitan","Single AC",3,"3","0",100,6,8,117,3253,11,"2","1",17,1
+"160","Hotel Premiers","Urban","Single AC",3,"3","0",100,6,2,105,2000,10,"2","1",17,4
+"161","Hotel G K Residency","Urban","Single AC",18,"3","0",100,1,6,118,1093,6,"2","1",17,4
+"162","Hotel Char Chinar","Urban","Double AC",23,"3","0",100,6,3,118,1912,11,"2","2",14,4
+"163","Rukkmani Guest House","Metropolitan","Double Non AC",3,"4","0",100,6,2,139,945,10,"2","2",15,1
+"164","Hotel Yatrik","Urban","Single AC",71,"3","0",100,6,5,123,1475,3,"2","1",17,4
+"165","Jodhana Elite","Metropolitan","Single Non AC",10,"3","0",100,6,4,127,1100,8,"2","1",18,1
+"166","Hotel Niky International","Metropolitan","One Day Use",18,"3","0",100,6,5,142,2778,14,"2","2",16,1
+"167","Surya Hotel","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,545,6,"2","2",15,1
+"168","Hotel Xcellent","Urban","Dormitary",0,"3","0",100,6,2,2,100,2,"2","1",13,4
+"169","Div-Darsh Homestay","Rural","Double Non AC",27,"2","0",100,6,3,68,1417,4,"2","2",15,2
+"170","The Golden Beach Resort","Semi-urban","Double Non AC",3,"6","0",100,6,2,134,1200,2,"2","2",15,3
+"171","Apple Home Stay","Metropolitan","Double AC",0,"3","1",100,6,2,2,1445,3,"2","2",14,1
+"172","Hotel Devi","Urban","Single Non AC",0,"3","0",100,6,6,2,445,2,"1","1",18,4
+"173","Hotel Khushboo","Urban","Double Non AC",0,"3","0",100,6,2,128,556,2,"2","2",15,4
+"174","Hotel Saraswati Palace","Metropolitan","Double Non AC",0,"3","0",100,6,2,119,700,10,"2","2",15,1
+"175","Shree Ram International","Metropolitan","Single Non AC",9,"3","0",100,6,2,145,3612,8,"2","1",18,1
+"176","Hotel Taru Inn","Metropolitan","Single AC",24,"3","0",100,6,2,127,1572,15,"2","1",17,1
+"177","Shanti Bhawan Heritage Hotel","Metropolitan","Single AC",0,"3","0",100,6,5,139,1668,12,"1","1",17,1
+"178","Bhauji Sri Inn","Metropolitan","Double AC",0,"3","0",100,6,2,93,1067,10,"2","2",14,1
+"179","The Reserve Gorumara","Urban","Double AC",8,"3","0",100,6,6,125,2595,2,"2","2",14,4
+"180","Hotel Kanpur Deluxe","Metropolitan","Single Non AC",31,"3","0",100,6,2,2,534,4,"1","1",18,1
+"181","Khubsoorat Inn Lodge (Near Sankar Dental Clinic)","Urban","Single AC",7,"5","0",100,6,6,110,1568,2,"1","1",17,4
+"182","Ashish Home stay","Metropolitan","Single Non AC",6,"3","1",100,6,2,2,1530,2,"2","1",18,1
+"183","Raj Bendi","Urban","Double Non AC",0,"3","0",100,6,3,2,778,12,"2","2",15,4
+"184","Arora Homestay","Metropolitan","Single Non AC",6,"2","1",100,6,2,2,1530,2,"2","1",18,1
+"185","Hotel Surya Excellency","Urban","Single AC",23,"3","0",100,6,2,135,1880,2,"2","1",17,4
+"186","Anirudh Homestay","Urban","Double AC",20,"2","1",100,6,2,5,567,2,"1","2",14,4
+"187","Jodhpur Beds And Breakfast","Metropolitan","Single Non AC",12,"3","0",100,6,2,103,524,5,"2","1",18,1
+"188","Hotel Sumit Palace","Urban","Double Non AC",26,"3","0",100,6,2,133,750,6,"2","2",15,4
+"189","Raju Guest House","Rural","Double Non AC",19,"4","0",51,1,2,2,445,9,"2","2",15,2
+"190","Glenmarie Home Stay","Urban","Single Non AC",4,"3","1",100,6,2,112,1584,10,"2","1",18,4
+"191","Hotel Mangalam","Metropolitan","Double Non AC",26,"3","0",0,0,2,96,767,6,"2","2",15,1
+"192","The Marwar Regency Hotel","Metropolitan","Double AC",0,"3","0",100,6,2,122,1474,12,"2","2",14,1
+"193","Hotel Kings","Urban","Double AC",68,"3","0",100,6,2,117,2126,11,"2","2",14,4
+"194","Hotel Sonar Bangla","Urban","Double AC",6,"3","0",33,1,2,95,1200,2,"2","2",14,4
+"195","Surya Hotel and Guest House","Metropolitan","Single Non AC",0,"4","0",100,6,2,2,223,2,"1","1",18,1
+"196","Hotel Taj Regency","Urban","Double AC",0,"3","0",100,6,2,102,1344,12,"2","2",14,4
+"197","Hotel Krishna International","Urban","Double Non AC",0,"3","0",100,6,3,94,599,2,"2","2",15,4
+"198","Santiniketan Hotel And Resorts","Semi-urban","Double Non AC",4,"6","0",100,6,2,131,1634,13,"2","2",15,3
+"199","Athulyam Resort","Metropolitan","Cottage",13,"6","0",100,6,2,134,4000,2,"2","2",12,1
+"200","Hotel Madhuban","Urban","Double Non AC",38,"3","0",100,6,2,157,1043,9,"2","2",15,4
+"201","Rudra Neel Villa","Metropolitan","Double AC",8,"8","1",100,6,3,110,2187,6,"2","1",14,1
+"202","Chhotaram Prajapats HomeStay","Metropolitan","One Day Use",8,"2","1",100,6,5,88,1000,2,"2","1",16,1
+"203","Ajoy Minar Hotel","Semi-urban","Double Non AC",9,"3","0",0,0,2,122,1075,11,"2","2",15,3
+"204","Vasantham Beach Residency","Urban","Double AC",5,"3","0",100,16,2,64,1334,5,"2","2",14,4
+"205","Pawan Homestay","Metropolitan","Double Non AC",4,"2","1",100,6,2,7,945,6,"1","2",15,1
+"206","Keru Guest House","Metropolitan","Single Non AC",0,"4","0",100,6,2,105,473,11,"1","1",18,1
+"207","Sukhsagar AC Dormitory","Urban","Dormitary",37,"3","0",100,6,2,2,170,7,"2","1",13,4
+"208","Bansal Guest House","Urban","Single Non AC",10,"4","0",100,6,2,2,600,2,"1","1",18,4
+"209","Sri Visweswara Lodge","Urban","Single Non AC",0,"5","0",100,6,2,97,300,4,"1","1",18,4
+"210","Resort Royal Treat","Urban","Double Non AC",3,"6","0",100,6,2,2,1067,12,"2","2",15,4
+"211","Liv Sea Valley Resort","Semi-urban","Double Non AC",8,"6","0",100,6,2,119,1232,11,"2","2",15,3
+"212","Anugrah Homestay","Semi-urban","Double Non AC",13,"2","0",100,6,4,34,1134,2,"2","2",15,3
+"213","Hotel Shri Ram Excellency Group","Metropolitan","Single Non AC",0,"3","0",100,6,2,126,3108,12,"2","1",18,1
+"214","Hotel Star","Urban","Double Non AC",32,"3","0",100,24,2,2,500,8,"2","2",15,4
+"215","Pratap Niwas An Amritara Resort","Metropolitan","Double AC",2,"6","0",100,6,2,136,7703,2,"2","2",14,1
+"216","Ranbir Yatri Bhawan","Urban","Double Non AC",29,"3","0",100,6,2,2,750,7,"2","2",15,4
+"217","Polo Heritage Hotel","Metropolitan","Single AC",14,"3","0",100,6,4,124,3112,11,"2","2",17,1
+"218","Hotel Garden Reach","Urban","Double Non AC",14,"3","0",67,1,2,447,1972,5,"2","2",15,4
+"219","K C Residency","Urban","Single Non AC",26,"3","0",100,6,2,130,5200,2,"2","1",18,4
+"220","Hotel Priya","Metropolitan","Double Non AC",12,"3","0",50,11,2,133,556,5,"2","2",15,1
+"221","Hotel Ganpati Celebration","Metropolitan","Single AC",3,"3","0",100,6,2,121,1134,11,"1","1",17,1
+"222","Acacia Eco Resort Jaldapara","Urban","Double Non AC",6,"6","0",100,6,2,55,1500,2,"2","2",15,4
+"223","New Garden Hotel","Urban","Single Non AC",0,"3","0",100,6,2,2,378,2,"1","1",18,4
+"224","Abhishek Homestay","Metropolitan","Double Non AC",6,"2","1",100,6,2,2,1067,2,"2","2",15,1
+"225","Kaziranga Golf Resort","Urban","Single AC",13,"6","0",100,6,6,132,4845,2,"2","1",17,4
+"226","Hotel Durga Residency","Urban","Double Non AC",47,"3","0",100,6,5,84,1999,9,"2","2",15,4
+"227","Sethi Guest House","Urban","Double Non AC",0,"4","0",100,6,2,2,445,12,"2","2",15,4
+"228","Eldeco Homestay","Metropolitan","Double Non AC",5,"2","1",100,6,2,2,1667,2,"2","2",15,1
+"229","Hotel Kalatit International","Urban","Single Non AC",5,"3","0",100,6,2,124,1629,2,"2","1",18,4
+"230","Park Club And Resorts","Metropolitan","Double AC",10,"6","0",100,6,2,141,2000,2,"2","2",14,1
+"231","Hotel Deep Palace","Urban","Double AC",3,"3","0",100,6,8,127,1250,2,"2","2",14,4
+"232","Hotel Vraj Inn","Urban","Single AC",53,"3","0",0,0,2,175,1540,3,"2","1",17,4
+"233","Himalayan Hotel","Urban","Single Non AC",4,"3","0",100,6,2,74,3558,2,"1","1",18,4
+"234","The Wave International","Metropolitan","Single AC",10,"3","0",100,6,2,143,2089,10,"1","1",17,1
+"235","Hotel Mandakini","Metropolitan","Single Non AC",7,"3","0",100,6,2,133,1758,10,"2","1",18,1
+"236","Hotel Shiv","Metropolitan","Single Non AC",12,"3","0",100,6,2,2,756,2,"1","1",18,1
+"237","J P Lodge Kalimpong","Urban","Single Non AC",28,"5","0",100,6,2,34,800,2,"1","2",18,4
+"238","Hotel Rani Castle","Urban","Double AC",34,"3","0",100,6,2,94,3334,3,"2","2",14,4
+"239","Marvel Umed","Metropolitan","Single Non AC",11,"3","0",100,6,3,122,2445,6,"2","1",18,1
+"240","Hotel Mona","Metropolitan","Single Non AC",0,"3","0",100,6,2,100,167,2,"1","1",18,1
+"241","Saraswati Hotel","Urban","Double Non AC",25,"3","0",100,6,2,146,700,11,"2","2",15,4
+"242","Hotel Sai Mahal","Urban","Double Non AC",0,"3","0",100,6,2,110,1156,10,"2","2",15,4
+"243","Sanjay Homestay","Metropolitan","Double Non AC",9,"2","1",100,6,4,5,1334,8,"0","2",15,1
+"244","Hotel Celebration","Metropolitan","Single AC",9,"3","0",100,6,4,119,2187,6,"2","1",17,1
+"245","Surya Homestay","Urban","Single Non AC",0,"2","1",67,1,3,3,189,2,"1","1",18,4
+"246","Hotel Kamdhenu","Metropolitan","Dormitary",0,"3","0",100,6,2,123,400,12,"2","1",13,1
+"247","The Mohini Royale","Urban","Single AC",9,"3","0",100,6,2,138,1322,2,"2","1",17,4
+"248","Narula Guest House","Metropolitan","Single AC",6,"4","0",100,6,5,114,2595,11,"2","1",17,1
+"249","Chavi Village Resort","Urban","Double Non AC",3,"8","0",100,11,2,95,849,2,"2","2",15,4
+"250","K B Guest House","Metropolitan","Single Non AC",0,"4","0",100,6,2,2,389,3,"1","1",18,1
+"251","Shambhu Prajapat Ecofriendly Stay","Metropolitan","Cottage",15,"3","1",100,6,2,120,2889,2,"2","2",12,1
+"252","Ganesham Guest House","Metropolitan","Single Non AC",0,"4","0",100,6,4,128,756,6,"2","1",18,1
+"253","City Guest House","Metropolitan","One Day Use",0,"4","0",100,6,2,2,334,2,"2","2",16,1
+"254","Hotel Sea Coast","Rural","Double Non AC",0,"3","0",100,6,5,117,1467,9,"2","2",15,2
+"255","Raja Guest House","Metropolitan","Single Non AC",0,"4","0",100,6,2,87,500,9,"1","1",18,1
+"256","Hotel Jammu Ashok","Urban","Single Non AC",9,"3","0",100,6,2,115,2278,10,"2","1",18,4
+"257","Hotel Krishna Lodge","Urban","Double Non AC",25,"5","0",100,6,6,2,445,7,"2","2",15,4
+"258","The Thengal Manor","Urban","Cottage",1,"3","0",100,6,3,105,7786,3,"2","1",12,4
+"259","CrashPad Hostotels","Metropolitan","Single AC",18,"3","0",100,6,2,115,1076,16,"2","1",17,1
+"260","Lotus Guest House","Metropolitan","Double Non AC",5,"4","0",100,6,2,121,578,4,"2","2",15,1
+"261","Mayal Paradise Homestay","Rural","Double Non AC",13,"2","0",100,6,2,16,2362,2,"1","2",15,2
+"262","Hotel Punit","Urban","Double Non AC",32,"3","0",100,6,4,150,1269,2,"2","2",15,4
+"263","Hotel Himadari","Urban","3 Bedded Non AC",4,"3","0",100,6,2,155,1584,3,"2","3",4,4
+"264","Teesta Paryatak","Urban","Double Non AC",53,"3","0",0,0,6,121,950,2,"2","2",15,4
+"265","Hotel Om Hari Residency","Urban","Double Non AC",29,"3","0",100,6,2,132,1112,10,"2","2",15,4
+"266","Lehar Villa","Metropolitan","Double AC",6,"8","1",100,6,2,134,7112,2,"2","2",14,1
+"267","Paris International Guest House","Urban","Single Non AC",1,"4","0",100,16,2,85,555,2,"1","1",18,4
+"268","Hotel Geostays Classic","Metropolitan","Single AC",0,"3","0",100,6,2,2,1667,11,"2","1",17,1
+"269","Pushp Guest House","Metropolitan","Double Non AC",6,"4","0",100,6,2,2,802,13,"2","2",15,1
+"270","Upendra Residency","Urban","Single Non AC",7,"3","0",75,1,2,115,390,2,"1","1",18,4
+"271","Hotel Pride Inn","Urban","Double Non AC",9,"3","0",100,6,2,147,528,9,"2","2",15,4
+"272","Hotel Mithilesh","Urban","Single Non AC",0,"3","0",100,6,2,2,500,2,"1","1",18,4
+"273","KuKu Family Home Stay","Metropolitan","Double Non AC",16,"3","1",100,6,2,124,793,2,"2","2",15,1
+"274","Hotel Rupasi Bangla","Rural","Double Non AC",0,"3","0",100,6,2,173,750,9,"2","2",15,2
+"275","Phurba Homestay","Rural","Double Non AC",10,"2","0",100,6,2,22,2267,2,"1","2",15,2
+"276","Hotel Keshwaras Residency","Urban","Double AC",5,"3","0",50,1,2,147,1676,2,"2","2",14,4
+"277","Yes Stays Safderjung Enclave","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,6000,14,"2","2",15,1
+"278","Tivoli Habitat Centre","Urban","Single AC",2,"3","0",0,0,6,96,1700,13,"2","0",17,4
+"279","Ashok Service Apartment 3BHK","Metropolitan","3 BHK",0,"1","1",100,6,2,2,2223,2,"2","2",5,1
+"280","Hotel SK Premium Park","Metropolitan","Single Non AC",7,"3","0",100,6,7,141,3000,12,"2","1",18,1
+"281","Hotel Grand Radiance","Metropolitan","Double Non AC",2,"3","0",100,6,2,2,1067,17,"2","2",15,1
+"282","Hotel Majestic","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,2778,2,"2","2",15,1
+"283","VM Residency","Metropolitan","Double AC",15,"3","0",100,6,4,96,2000,11,"2","2",14,1
+"284","Akola Garh Resort","Urban","Double AC",6,"6","0",100,24,7,126,2223,2,"2","2",14,4
+"285","The Umrao Hotel And Resorts Pvt Ltd","Metropolitan","Double AC",6,"6","0",100,6,12,2,5556,17,"2","2",14,1
+"286","Bidhuri House","Metropolitan","Double Non AC",1,"4","1",100,6,2,30,1067,2,"0","2",15,1
+"287","Olive Service Apartment Defence Colony A-454A","Metropolitan","1 BHK",0,"1","1",100,6,2,2,3889,2,"2","2",1,1
+"288","Ashok Ji Niwas","Urban","Double Non AC",4,"3","0",100,6,3,28,945,7,"1","2",15,4
+"289","Hotel Geethu International","Rural","Double AC",2,"3","0",100,6,2,133,2334,2,"2","2",14,2
+"290","Yes Stays Near M Block GK 1","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,5760,13,"2","2",15,1
+"291","Shyam palace guest house","Metropolitan","Double Non AC",0,"4","0",100,6,2,34,945,15,"0","2",15,1
+"292","Olive Service Apartment Defence Colony A-448B","Metropolitan","2 BHK",0,"1","1",100,6,2,2,7223,2,"2","4",3,1
+"293","Devyani Lodge Bed n Breakfast","Metropolitan","Double AC",0,"5","1",100,6,5,23,2667,10,"0","2",14,1
+"294","Luxury Service Apartment 3","Metropolitan","3 BHK",0,"1","1",100,6,2,18,10389,4,"0","2",5,1
+"295","Flourish Inn Bed n Breakfast","Metropolitan","Double Non AC",0,"3","0",100,6,3,27,2362,8,"0","2",15,1
+"296","La Promenade Hotel","Metropolitan","Double Non AC",5,"3","0",100,6,2,86,3056,7,"2","2",15,1
+"297","Lords Inn","Metropolitan","Single AC",3,"3","0",100,6,8,108,2556,10,"1","1",17,1
+"298","Hotel Accent","Urban","Double Non AC",7,"3","0",0,0,2,2,826,13,"2","2",15,4
+"299","Hotel Nandan Palace","Urban","Single AC",5,"3","0",100,6,5,141,1867,10,"2","1",17,4
+"300","Bhatia Paying Guest","Metropolitan","Single Non AC",3,"3","1",100,6,2,29,8500,2,"0","1",18,1
+"301","Hotel Oscar","Metropolitan","Single AC",5,"3","0",100,6,7,127,2892,9,"1","1",17,1
+"302","Balaji House","Metropolitan","Double Non AC",1,"4","0",100,6,2,26,1228,2,"0","2",15,1
+"303","Little elephant beach resort","Metropolitan","4 Bedded Non AC",17,"6","0",100,6,9,6,3334,11,"2","4",7,1
+"304","Incredible Home India","Urban","Cottage",0,"3","0",100,6,7,144,1667,10,"2","2",12,4
+"305","Olive service Apartment Pancha Sheel","Metropolitan","3 BHK",0,"1","1",100,6,2,2,10000,2,"2","6",5,1
+"306","Hotel Lavish Inn","Metropolitan","Double Non AC",3,"3","0",100,6,2,2,3306,2,"2","2",15,1
+"307","Hotel Highway Crown","Metropolitan","One Day Use",5,"3","0",100,6,5,88,1556,13,"2","1",16,1
+"308","The Abodes Guest House","Urban","Double Non AC",9,"4","0",100,6,11,94,2173,10,"2","2",15,4
+"309","Dunag Springs","Metropolitan","1 BHK",0,"3","0",100,6,2,2,1050,2,"2","1",1,1
+"310","Nitin Palace","Metropolitan","Double Non AC",0,"3","0",100,6,2,32,1417,11,"0","2",15,1
+"311","Hotel Jewel Palace","Metropolitan","One Day Use",16,"3","0",100,6,5,250,1624,15,"2","1",16,1
+"312","Patrick Villa Beach Resort","Metropolitan","Double Non AC",1,"8","1",100,6,2,2,778,2,"2","2",15,1
+"313","DHRITIKUNJA first","Metropolitan","Double Non AC",0,"3","0",100,6,4,2,2362,13,"0","2",15,1
+"314","Yes Stays C Block GK 1","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,5280,2,"2","2",15,1
+"315","Hotel Chetak","Urban","One Day Use",5,"3","0",100,6,3,145,519,11,"2","1",16,4
+"316","Lake View Villa","Metropolitan","6 Bedded AC",2,"8","1",100,6,2,148,7500,2,"2","6",10,1
+"317","Hotel Kirti Plaza","Urban","Double AC",0,"3","0",100,10,2,89,889,10,"2","2",14,4
+"318","Stay Mid Way Guest House","Urban","Double AC",0,"4","0",100,6,3,78,2223,6,"2","2",14,4
+"319","Yes Stays Africa Avenue Road","Metropolitan","Single Non AC",0,"3","0",100,6,2,2,6000,14,"2","1",18,1
+"320","Country Inn Delhi Saket","Metropolitan","Single AC",12,"3","0",100,6,10,81,4445,13,"2","1",17,1
+"321","V Y Lodging 3","Metropolitan","Suite",0,"3","0",100,6,2,26,8889,11,"0","2",19,1
+"322","Athena By PI Hotels","Metropolitan","Single Non AC",5,"3","0",100,6,2,2,5555,13,"2","1",18,1
+"323","Hotel Aura","Metropolitan","Single AC",7,"3","0",100,6,2,144,1850,10,"2","1",17,1
+"324","Hotel Regent Continental","Metropolitan","Double Non AC",10,"3","0",100,6,2,109,3528,12,"2","2",15,1
+"325","Asha Homestay","Urban","Double Non AC",6,"2","1",100,6,2,36,662,4,"1","2",15,4
+"326","Hotel Shree Ram Palace","Urban","Double Non AC",5,"3","0",100,6,3,123,600,11,"2","2",15,4
+"327","Bhavya Palace Inn","Rural","Double Non AC",4,"3","0",100,6,4,2,612,2,"2","2",15,2
+"328","Hotel Chirag Residency","Metropolitan","Single AC",16,"3","0",100,6,9,97,3855,14,"2","1",17,1
+"329","Sibling Revelry Delhi","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,1075,10,"2","0",15,1
+"330","Mehras Paying Guest","Metropolitan","Double Non AC",0,"3","0",100,6,2,22,1778,2,"0","1",15,1
+"331","Hotel Crown Continental","Metropolitan","Double Non AC",8,"3","0",100,6,4,120,1329,12,"2","2",15,1
+"332","P.K Service Apartment Sector 93","Urban","2 BHK",0,"1","0",100,6,4,126,71614,2,"2","4",3,4
+"333","Yes Stays Sri Arvindo Marg","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,6720,14,"2","2",15,1
+"334","Shubham Palace","Metropolitan","Double Non AC",1,"3","0",100,6,2,27,1134,2,"0","2",15,1
+"335","Hotel Indira International Inn","Metropolitan","Double AC",11,"3","0",100,6,7,136,1956,10,"2","2",14,1
+"336","Aradhana Hotel and Complex","Urban","Double AC",22,"3","0",100,6,2,117,1584,2,"2","2",14,4
+"337","Hotel Maya Inn","Urban","Single AC",0,"3","0",100,6,2,121,1889,12,"2","1",17,4
+"338","Hotel The Stellar Gymkhana","Urban","Double Non AC",0,"3","0",100,6,2,136,5858,2,"2","2",15,4
+"339","Solo Victoria","Metropolitan","Single Non AC",11,"3","0",100,6,7,413,3082,11,"2","2",18,1
+"340","Sri NA Residency","Metropolitan","Double Non AC",7,"3","0",100,24,2,108,1113,11,"2","2",15,1
+"341","Rainbow Residency","Metropolitan","Single Non AC",12,"3","0",100,6,4,12,3334,10,"0","1",18,1
+"342","Ganesh Guest House","Urban","Double Non AC",13,"4","0",100,6,5,2,700,2,"2","2",15,4
+"343","Gokulam Homestay","Rural","Double Non AC",2,"2","1",100,6,2,167,1600,12,"2","2",15,2
+"344","Vandana Homestay","Urban","Double Non AC",8,"2","1",100,6,3,14,945,8,"1","2",15,4
+"345","Mishra ji Guest house","Metropolitan","Double Non AC",0,"4","0",100,6,2,26,756,2,"0","2",15,1
+"346","Om Palace","Metropolitan","Double Non AC",2,"3","0",100,6,2,25,1134,2,"0","2",15,1
+"347","Sri Murugan Residency","Metropolitan","Single Non AC",0,"3","0",100,6,2,115,2656,14,"2","1",18,1
+"348","Thirty Three - Boutique Hotel","Metropolitan","One Day Use",12,"3","0",100,6,4,132,2778,2,"2","1",16,1
+"349","Baba Guest House","Metropolitan","Double Non AC",1,"4","0",100,6,2,37,1889,10,"0","2",15,1
+"350","Hotel Ashoka Palace","Metropolitan","One Day Use",3,"3","0",100,6,6,144,3334,13,"2","1",16,1
+"351","Hotel Oakland","Metropolitan","Single AC",5,"3","0",100,6,4,120,2667,10,"2","1",17,1
+"352","Homestay","Urban","Double Non AC",6,"2","0",100,6,3,12,945,9,"1","2",15,4
+"353","Hotel Bellvue","Metropolitan","Single AC",10,"3","0",100,6,6,140,4216,15,"2","1",17,1
+"354","J S Inn","Metropolitan","Single AC",4,"3","0",100,6,4,104,5219,10,"2","1",17,1
+"355","Challenger Residency Service Apartment","Metropolitan","5 Bedded Non AC",44,"1","0",100,6,3,136,7247,2,"2","5",9,1
+"356","Hotel Waterfall","Metropolitan","Double AC",10,"3","0",100,6,7,145,4178,16,"2","2",14,1
+"357","Shri Sai Nath Guest House(AS)","Urban","Single Non AC",5,"4","0",100,6,2,2,278,2,"2","1",18,4
+"358","Hotel Airport Land","Metropolitan","Double AC",3,"3","0",100,6,2,130,1334,11,"2","2",14,1
+"359","Luxury Service Apartment","Metropolitan","Double Non AC",0,"1","1",100,6,6,26,1889,13,"0","2",15,1
+"360","Hotel Ratan Palace","Urban","Double AC",4,"3","0",100,6,5,134,1556,2,"2","2",14,4
+"361","Fortune Park DJ Avenue-Ghitorni","Metropolitan","Single AC",8,"3","0",100,6,8,135,6969,11,"2","1",17,1
+"362","V Y Lodging","Metropolitan","Suite",0,"3","0",100,6,2,21,8889,12,"0","2",19,1
+"363","Country Inn And Suites Satbari","Metropolitan","Double AC",10,"3","0",100,6,10,65,4334,15,"2","2",14,1
+"364","Ahuja Paying Guest","Metropolitan","Single Non AC",2,"3","1",100,6,2,26,8500,2,"0","1",18,1
+"365","Hotel Sri Nanak Continental","Metropolitan","Double Non AC",20,"3","0",100,6,6,144,1983,11,"2","2",15,1
+"366","Hotel Sri Krishna Palace","Metropolitan","Single AC",6,"3","0",100,18,6,115,1467,11,"2","1",17,1
+"367","Gopal Home","Urban","Double Non AC",5,"3","0",100,6,2,21,945,8,"0","2",15,4
+"368","Madonna Hotel","Metropolitan","Double AC",5,"3","0",100,6,7,113,2362,13,"2","1",14,1
+"369","Millenium Residency","Metropolitan","Double AC",8,"3","0",100,6,2,101,1667,13,"2","2",14,1
+"370","Anchal Guest House","Metropolitan","Double Non AC",1,"4","0",100,6,3,103,800,2,"2","2",15,1
+"371","Kalra Paying Guest - East of Kailash","Metropolitan","Double Non AC",2,"3","0",100,6,3,33,872,15,"2","2",15,1
+"372","Airport Hotel Grand","Metropolitan","Double Non AC",4,"3","0",100,6,8,2,3328,10,"2","2",15,1
+"373","Gulzar Hotel","Metropolitan","Single Non AC",6,"3","0",100,6,2,2,445,11,"1","1",18,1
+"374","Ratan Palace Hotel","Urban","Double Non AC",0,"3","0",100,6,2,120,667,2,"2","2",15,4
+"375","Hotel Shivam Fort View","Urban","One Day Use",30,"3","0",100,6,6,140,867,10,"2","2",16,4
+"376","Anithas Garden Stay","Metropolitan","Double AC",9,"3","0",100,6,7,7,2393,2,"1","2",14,1
+"377","Chandu Inn","Metropolitan","Double Non AC",0,"3","0",100,6,2,32,662,2,"0","2",15,1
+"378","Chitrakoot Resorts and Restaurant","Urban","Double AC",9,"6","0",100,6,2,146,1334,2,"2","2",14,4
+"379","Sachdeva Paying Guest","Metropolitan","Single Non AC",0,"3","0",100,6,2,25,1778,2,"0","1",18,1
+"380","Hotel Rangoli Dx Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,2,2,667,2,"2","2",15,1
+"381","Olive Service Apartment Defence Colony A- 449A","Metropolitan","1 BHK",0,"1","1",100,6,2,2,5067,2,"2","2",1,1
+"382","Dhadheech Homestay","Urban","Double Non AC",6,"2","0",100,6,2,15,567,2,"1","2",15,4
+"383","Hotel Meera","Urban","Double Non AC",16,"3","0",100,1,9,141,986,8,"2","2",15,4
+"384","Over The Hill","Metropolitan","Double Non AC",6,"3","0",100,6,4,131,4033,2,"2","2",15,1
+"385","Hira Palace","Metropolitan","Double Non AC",0,"3","0",100,6,2,36,1417,11,"0","2",15,1
+"386","JYIC Divine Retreat","Urban","Double AC",4,"3","0",100,6,4,104,3812,16,"2","2",14,4
+"387","Hotel Royal Mirage","Metropolitan","Double AC",10,"3","0",100,6,7,143,3425,12,"2","2",14,1
+"388","Poovar Island Resort","Metropolitan","Cottage",3,"6","0",100,6,9,111,8832,2,"2","2",12,1
+"389","Hotel Formule One","Urban","Double AC",8,"3","0",100,6,6,141,3332,15,"2","2",14,4
+"390","Devyani Lodge","Metropolitan","Double AC",0,"5","0",100,6,4,2,3556,11,"0","2",14,1
+"391","Hotel Ruchika","Urban","Double Non AC",4,"3","0",100,6,7,2,898,10,"2","2",15,4
+"392","Anand Apartment","Urban","Double Non AC",4,"1","0",100,6,4,5,378,2,"1","2",15,4
+"393","Hotel Sheetal Resort & Midway","Urban","Single AC",0,"6","0",100,6,5,2,1600,2,"2","1",17,4
+"394","Koo House","Urban","Double AC",0,"4","0",100,6,2,95,3400,2,"2","2",14,4
+"395","Hotel Good Luck","Metropolitan","Double Non AC",16,"3","0",100,6,14,73,1023,12,"2","2",15,1
+"396","Hotel Amaltash International","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,5485,12,"2","2",15,1
+"397","Isola Di Cocco Ayurvedic Resort","Metropolitan","Double Non AC",12,"6","0",100,6,2,157,3556,3,"2","2",15,1
+"398","Petal Guest House","Metropolitan","Double Non AC",2,"4","0",100,6,2,25,1417,10,"0","2",15,1
+"399","Hotel Ambika","Urban","Single Non AC",0,"3","0",100,6,2,2,700,2,"2","1",18,4
+"400","Delight Inn","Metropolitan","Double Non AC",8,"3","0",100,6,2,103,1778,11,"2","2",15,1
+"401","Hotel Sri Balajee","Urban","Double Non AC",4,"3","0",100,6,5,62,445,2,"2","2",15,4
+"402","Jetley Paying Guest","Metropolitan","Single Non AC",3,"3","0",100,6,2,28,1889,2,"0","1",18,1
+"403","Galaxy AC rooms","Metropolitan","Single Non AC",0,"3","0",100,6,6,2,2778,13,"2","1",18,1
+"404","Hotel Chopal","Urban","Double Non AC",0,"3","0",100,6,4,137,545,2,"2","2",15,4
+"405","Hotel Pandit","Urban","One Day Use",25,"3","0",100,6,4,142,889,12,"2","1",16,4
+"406","(*)Hotel Satkar","Urban","Double Non AC",5,"3","0",100,6,2,2,1000,4,"2","2",15,4
+"407","Dhritikunja Third","Metropolitan","Double Non AC",0,"3","1",100,6,4,28,2362,13,"0","2",15,1
+"408","(*)Shree Ji Hotel","Urban","Single AC",14,"3","0",100,6,2,89,1778,12,"2","1",17,4
+"409","Hotel Grand Sea","Metropolitan","Double AC",7,"3","0",100,6,5,2,2000,12,"2","2",14,1
+"410","Hotel Le Grand","Metropolitan","Single AC",5,"3","0",100,6,4,2,2298,12,"2","1",17,1
+"411","Pamposh Bed n Breakfast","Metropolitan","Double Non AC",0,"3","0",100,6,4,27,3778,10,"0","2",15,1
+"412","Gokulam Park","Metropolitan","Single Non AC",104,"3","0",100,6,4,175,4379,2,"2","1",18,1
+"413","Hotel Te","Metropolitan","One Day Use",7,"3","0",100,6,8,139,3500,13,"2","1",16,1
+"414","Olive Service Apartment Greater Kailash2 A2- 2A","Metropolitan","1 BHK",0,"1","1",100,6,2,2,4445,2,"2","2",1,1
+"415","V Y Lodging 1","Metropolitan","Cottage",0,"3","0",100,6,2,25,8889,11,"0","2",12,1
+"416","Dhritikunja Second","Metropolitan","Double Non AC",0,"3","1",100,6,4,31,2362,13,"0","2",15,1
+"417","Yes Stays Karol Bagh","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,2640,10,"2","2",15,1
+"418","Neelgagan Guest House","Metropolitan","Double AC",0,"4","0",100,6,4,2,1629,10,"2","2",14,1
+"419","Hotel Metro City","Metropolitan","Double Non AC",11,"3","0",100,6,6,137,1067,11,"2","2",15,1
+"420","Archana Homestay","Urban","Double Non AC",5,"2","0",100,6,3,26,662,4,"1","2",15,4
+"421","Javitri Residency","Metropolitan","Double Non AC",1,"3","0",100,6,2,24,1417,10,"0","2",15,1
+"422","Karan Guest House","Metropolitan","Double Non AC",1,"4","0",100,6,2,19,1417,10,"0","2",15,1
+"423","Deluxe Otani Hotel Inn","Metropolitan","Double AC",11,"3","0",100,6,4,2,1667,13,"2","2",14,1
+"424","The Greno","Urban","Double AC",0,"3","0",100,6,2,2,1667,5,"2","2",14,4
+"425","Hotel Malik Continental","Metropolitan","Double Non AC",7,"3","0",100,6,5,96,1500,16,"2","2",15,1
+"426","Madhukunj","Metropolitan","Double AC",0,"3","1",100,6,2,29,1334,11,"0","2",14,1
+"427","Comfort Inn","Metropolitan","Double Non AC",1,"3","1",100,6,2,32,1067,2,"0","2",15,1
+"428","Premier Inn","Metropolitan","Double AC",12,"3","0",100,6,9,59,4113,12,"2","2",14,1
+"429","Solti Guest House","Metropolitan","Double Non AC",2,"4","0",100,6,4,98,778,12,"2","2",15,1
+"430","Ashok Country Resort","Metropolitan","Single Non AC",15,"6","0",100,6,9,136,3334,5,"2","1",18,1
+"431","Gopal Niwas","Urban","Double Non AC",8,"3","1",100,6,5,24,945,8,"1","2",15,4
+"432","Royal Sunrise","Metropolitan","Double AC",6,"3","0",100,6,8,78,2000,13,"2","2",14,1
+"433","R K International","Metropolitan","Double Non AC",1,"3","0",100,6,2,17,1889,13,"0","2",15,1
+"434","Chhoti Haveli","Metropolitan","Double Non AC",11,"3","1",100,6,4,118,3778,9,"0","2",15,1
+"435","Johnys Beach House","Metropolitan","Double Non AC",10,"4","1",100,6,3,12,834,2,"0","2",15,1
+"436","Sumit PG","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,2223,2,"2","2",15,1
+"437","Luxury Service Apartment","Metropolitan","Double Non AC",0,"1","0",100,6,6,30,1889,13,"0","2",15,1
+"438","Luxury Service Apartment 2","Metropolitan","3 BHK",0,"1","1",100,6,2,12,10389,2,"0","2",5,1
+"439","Hotel Regent Intercontinental","Metropolitan","Double Non AC",6,"3","0",100,6,5,2,3780,11,"2","2",15,1
+"440","V Y Lodging 2","Metropolitan","Suite",0,"3","0",100,6,2,25,8889,11,"0","2",19,1
+"441","Mint Casa","Metropolitan","Single AC",11,"3","0",100,6,3,2,4228,2,"2","1",17,1
+"442","DC Hotel","Urban","Single Non AC",5,"3","0",100,6,2,39,889,11,"1","1",18,4
+"443","Hotel Keshar Palace","Urban","Single Non AC",0,"3","0",100,6,5,107,356,2,"1","1",18,4
+"444","Olive Service Apartment Greater Kailash2 A2- 2B","Metropolitan","2 BHK",0,"1","1",100,6,2,2,5556,2,"2","4",3,1
+"445","The Travancore Heritage","Metropolitan","Single Non AC",6,"3","0",100,6,2,141,2556,6,"2","1",18,1
+"446","Hotel La Ola","Metropolitan","Single Non AC",0,"3","0",100,6,2,2,2778,2,"2","1",18,1
+"447","Luxury Service Apartment 1","Metropolitan","3 BHK",0,"1","1",100,6,2,26,10389,4,"0","2",5,1
+"448","Pamposh Guest House","Metropolitan","Single AC",7,"4","0",100,6,7,119,2740,12,"2","1",17,1
+"449","Stemwood Service Apartments","Metropolitan","Double AC",3,"1","0",100,6,6,41,3500,9,"2","2",14,1
+"450","Hotel Royal Palace By Geostays","Metropolitan","Single AC",0,"3","0",100,6,2,2,1112,14,"2","1",17,1
+"451","Hotel victor Inn","Metropolitan","Double Non AC",0,"3","0",100,6,2,2,1689,11,"2","2",15,1
+"452","Jana Residency","Metropolitan","Double AC",4,"3","0",100,6,7,2,1000,10,"2","2",14,1
+"453","Heritage Hotel","Semi-urban","Double AC",6,"3","0",100,6,8,137,2250,7,"2","2",14,3
+"454","Hotel India","Metropolitan","Single AC",0,"3","0",100,6,7,121,3889,9,"1","1",17,1
+"455","Hotel Chitikiran Lodge","Urban","Single Non AC",0,"5","0",100,6,2,84,889,9,"1","1",18,4
+"456","Hotel Niya Regency","Urban","Single Non AC",7,"3","0",100,6,2,141,2663,9,"2","1",18,4
+"457","Sidhanth Paying Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,2,2,934,10,"2","2",15,1
+"458","Ganges Inn","Metropolitan","Single AC",12,"3","1",100,6,2,90,2362,10,"2","1",17,1
+"459","Hotel Maya Residency","Urban","Single AC",16,"3","0",100,6,5,143,1888,8,"2","1",17,4
+"460","Brinda Home Stay","Metropolitan","Double Non AC",14,"3","1",100,6,3,110,2500,2,"2","2",15,1
+"461","Vireshwar Ashram","Metropolitan","Double Non AC",4,"3","0",100,6,3,2,378,6,"2","2",15,1
+"462","Suryauday Haveli","Metropolitan","Double Non AC",11,"3","0",100,6,6,139,14056,2,"2","2",15,1
+"463","Hari Vilaas Hotel","Metropolitan","Single AC",0,"3","0",100,6,2,198,1700,10,"2","1",17,1
+"464","Mottys Homestay","Urban","Single Non AC",56,"2","1",100,6,7,144,1056,8,"2","1",18,4
+"465","Hotel Cee Pee Towers","Urban","Single Non AC",5,"3","0",100,6,5,121,907,6,"1","1",18,4
+"466","West Way Hotel","Metropolitan","Single Non AC",16,"3","0",100,6,2,102,3916,2,"2","1",18,1
+"467","Hotel Krishna","Urban","Double Non AC",0,"3","0",0,0,2,2,545,3,"2","2",15,4
+"468","Luxmi Guest House","Metropolitan","Double Non AC",10,"4","0",100,6,4,135,778,10,"2","2",15,1
+"469","Hotel Sarvodaya","Metropolitan","Double AC",80,"3","0",100,6,2,92,1729,11,"2","2",14,1
+"470","Mini Resorts And Ayurveda Retreat","Urban","Double AC",4,"6","0",100,6,2,112,2904,2,"2","2",14,4
+"471","Hotel Raman","Urban","Single AC",0,"3","0",100,6,6,110,1685,6,"1","1",17,4
+"472","Hotel Orchid Square","Urban","Double Non AC",10,"3","0",100,6,2,106,2166,2,"2","2",15,4
+"473","Hotel High Point","Urban","Single Non AC",22,"3","0",100,6,3,149,2249,2,"2","1",18,4
+"474","Vista Rooms at Trichy","Urban","Double AC",7,"3","0",100,6,8,687,2478,10,"2","2",14,4
+"475","Alina Guest House","Metropolitan","Double Non AC",1,"4","1",100,6,3,14,945,14,"0","2",15,1
+"476","Hotel Parveen Residency","Urban","Double AC",6,"3","0",100,6,2,2,1039,2,"2","2",14,4
+"477","Mayur Hotel","Urban","Single Non AC",0,"3","0",100,6,2,116,500,2,"1","1",18,4
+"478","Hotel SRM Annex","Urban","Single Non AC",0,"3","0",100,6,2,106,1667,11,"2","1",18,4
+"479","Hotel PatliPutra Exotica","Metropolitan","One Day Use",18,"3","0",0,0,2,109,3839,2,"2","1",16,1
+"480","Rudra Guest House","Metropolitan","Double Non AC",39,"4","1",100,6,6,123,650,14,"2","2",15,1
+"481","Beach Hotel","Metropolitan","Double AC",5,"3","1",100,6,2,186,3606,3,"2","2",14,1
+"482","Hotel Chitra","Urban","Single Non AC",34,"3","0",50,10,5,70,778,11,"2","1",18,4
+"483","Hotel Parth Executive","Urban","Double AC",10,"3","0",100,6,5,104,1450,2,"2","2",14,4
+"484","Krishna Lodge","Urban","Double Non AC",0,"5","0",100,6,2,145,556,2,"2","2",15,4
+"485","Sri Harshitha Residency","Urban","Single Non AC",3,"3","0",100,6,2,2,378,2,"1","1",18,4
+"486","Hotel Shri Swarnas Palace","Urban","Single Non AC",14,"3","0",75,6,2,119,1090,9,"1","1",18,4
+"487","Hotel Sayonara","Urban","Double AC",0,"3","0",100,6,2,89,1144,2,"2","2",14,4
+"488","Shiva River View Paying Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,2,68,667,16,"2","2",15,1
+"489","Hotel Western Classic Inn","Urban","Single Non AC",0,"3","0",100,6,4,100,1327,11,"1","1",18,4
+"490","Pavitni Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,6,113,709,11,"2","2",15,1
+"491","Hotel Elite International","Urban","Double Non AC",16,"3","0",0,0,4,90,1160,11,"2","2",15,4
+"492","Hotel Chobdar Haveli","Semi-urban","Double AC",10,"3","0",100,6,3,145,4445,2,"2","2",14,3
+"493","The Classic Hotel","Urban","Single Non AC",0,"3","0",100,6,8,126,1950,2,"2","1",18,4
+"494","Hotel Terrace","Urban","Double AC",0,"3","0",100,6,2,101,1067,2,"2","2",14,4
+"495","Hotel J S Residency","Metropolitan","Single AC",0,"3","0",100,6,2,115,3300,13,"2","1",17,1
+"496","Kovilakam Residency","Urban","Double Non AC",2,"3","0",100,24,8,84,1520,9,"2","2",15,4
+"497","Hotel Aryan","Urban","Double Non AC",0,"3","0",100,6,5,2,550,2,"2","2",15,4
+"498","Akshay Residency","Urban","Double AC",0,"3","0",100,13,5,127,1383,6,"2","2",14,4
+"499","Hotel Meria","Metropolitan","Single Non AC",5,"3","0",100,9,2,131,1026,9,"1","1",18,1
+"500","Vishalakshi Paying Guest House","Metropolitan","Double Non AC",9,"4","0",100,6,2,123,556,12,"2","2",15,1
+"501","Hotel Ibras","Urban","Cottage",20,"3","0",100,6,2,71,1200,4,"2","3",12,4
+"502","Stella Inn Prakash","Metropolitan","Double AC",6,"3","0",100,6,2,115,4000,5,"2","2",14,1
+"503","Shanti Palace","Metropolitan","Single Non AC",11,"3","0",100,6,4,99,1067,9,"2","1",18,1
+"504","Hotel Dvr Mansion Kurnool","Urban","Single AC",9,"3","0",100,6,11,142,2075,5,"1","1",17,4
+"505","Prem Homestay","Metropolitan","Double Non AC",49,"2","1",100,6,2,45,1417,9,"0","2",15,1
+"506","KR Inn Hotel","Urban","Double AC",6,"3","0",100,6,2,2,3359,2,"2","2",14,4
+"507","The River Retreat Heritage Ayurvedic Resort","Urban","Single AC",11,"6","0",100,6,2,115,2223,7,"2","1",17,4
+"508","Bandana Guest House","Metropolitan","Double AC",27,"4","1",100,6,2,374,2000,12,"2","2",14,1
+"509","River Bay Resort","Urban","Single Non AC",12,"6","0",100,6,2,108,2343,2,"2","1",18,4
+"510","Braj Villa Homestay","Metropolitan","Single Non AC",5,"2","1",100,6,5,14,1778,9,"0","1",18,1
+"511","2BHK Bungalow In Lonavala","Semi-urban","2 BHK",5,"3","0",100,6,2,2,13334,2,"2","15",3,3
+"512","Hotel Shanti Inn","Metropolitan","Double AC",8,"3","0",100,6,2,29,1334,10,"2","2",14,1
+"513","Ramsons International","Metropolitan","Single AC",22,"3","0",100,6,3,100,1290,2,"1","1",17,1
+"514","Shanthi Guest House","Metropolitan","Single Non AC",12,"4","0",100,6,2,128,1067,12,"1","1",18,1
+"515","Assi River Guest House","Metropolitan","Double Non AC",10,"4","0",100,6,2,108,719,11,"2","2",15,1
+"516","Hotel Fortune Blue","Urban","Suite",32,"3","0",100,6,12,20,1245,2,"2","2",19,4
+"517","Hotel Malabar Gate","Metropolitan","Single Non AC",6,"3","0",100,6,5,127,2558,2,"2","1",18,1
+"518","Hotel Guru","Urban","Single Non AC",0,"3","0",100,13,6,137,834,11,"2","1",18,4
+"519","Narendra Guest House","Metropolitan","Double Non AC",8,"4","0",100,6,2,129,623,15,"2","2",15,1
+"520","Gangotri Hotel","Metropolitan","Double Non AC",0,"3","0",100,6,2,28,584,10,"2","2",15,1
+"521","Hotel Anand Regency","Urban","Single Non AC",17,"3","0",100,6,2,98,2667,2,"2","1",18,4
+"522","New Hotel Broadway","Metropolitan","Single Non AC",18,"3","0",100,6,2,129,1666,11,"2","1",18,1
+"523","Welcome Hotel Raviz Kadavu Resort And Ayurveda Spa","Metropolitan","Double AC",29,"6","0",100,6,2,104,10017,2,"2","1",14,1
+"524","Hotel Liwa Tower","Urban","Double Non AC",4,"3","0",100,6,5,105,1029,3,"2","2",15,4
+"525","Ghar Aangan","Metropolitan","Double AC",10,"3","1",100,6,2,288,3334,2,"2","2",14,1
+"526","Navaneetham Sea Side","Urban","Double Non AC",0,"3","0",100,6,2,119,945,2,"2","2",15,4
+"527","Surya Hotel","Urban","Double Non AC",7,"3","0",100,6,5,132,1584,7,"2","2",15,4
+"528","Hi Q Rest Inn","Metropolitan","Dormitary",0,"3","0",100,6,2,2,200,2,"2","1",13,1
+"529","Casino Hotels Ltd","Urban","Single AC",4,"3","0",100,6,9,143,1950,4,"1","1",17,4
+"530","JK International Hotel","Metropolitan","Single Non AC",9,"3","0",100,6,2,2,623,9,"1","1",18,1
+"531","Dubai Hotel","Metropolitan","Double Non AC",2,"3","0",100,6,2,95,909,9,"2","2",15,1
+"532","Hotel madhuvan Palace","Metropolitan","Single AC",6,"3","0",100,6,2,105,5472,3,"2","1",17,1
+"533","Kunnathur Mana Heritage","Semi-urban","Double AC",24,"3","0",100,6,7,127,3334,2,"2","2",14,3
+"534","Challa Residency","Urban","Double AC",9,"3","0",100,6,2,104,1452,2,"2","2",14,4
+"535","Marari Sky Garden","Semi-urban","Double Non AC",59,"3","0",100,6,6,21,1267,4,"2","2",15,3
+"536","Sri Sai Lakshmi Residency","Urban","Single Non AC",6,"3","0",100,6,2,2,350,3,"2","1",18,4
+"537","Hotel Prakash Palace","Metropolitan","Single AC",11,"3","0",100,6,2,145,2774,10,"2","2",17,1
+"538","Rama Residency","Urban","6 BHK",8,"3","0",100,6,2,104,36000,2,"2","18",11,4
+"539","Youth Hostel","Rural","Dormitary",0,"3","0",100,6,2,2,150,2,"2","1",13,2
+"540","Hotel Divya","Metropolitan","Double AC",14,"3","0",100,6,2,136,914,11,"1","2",14,1
+"541","Urvashi Guest House","Metropolitan","Single Non AC",0,"4","1",100,6,5,111,350,14,"1","1",18,1
+"542","Hotel Dwarika","Metropolitan","Double Non AC",28,"3","0",100,6,6,110,889,12,"2","2",15,1
+"543","Palace on Steps","Metropolitan","Single Non AC",14,"3","0",100,6,2,145,1000,10,"2","2",18,1
+"544","Hotel New Pakiza","Urban","Double Non AC",10,"3","0",100,6,2,103,1889,11,"2","2",15,4
+"545","Hotel Pearl Marc","Urban","Double AC",5,"3","0",100,6,4,139,1250,2,"2","2",14,4
+"546","Ishan Home stay","Metropolitan","Double Non AC",26,"3","1",100,6,4,84,584,2,"2","2",15,1
+"547","Sandeep Lodge","Urban","Single Non AC",0,"5","0",100,6,4,2,500,2,"1","1",18,4
+"548","Garden Lodge","Metropolitan","Single Non AC",18,"5","0",100,6,5,96,623,11,"1","1",18,1
+"549","Leela Guest House","Metropolitan","Double Non AC",14,"4","0",100,6,2,139,667,16,"2","2",15,1
+"550","Kovilakom Residency","Metropolitan","Single Non AC",4,"3","0",100,6,6,185,2083,2,"2","1",18,1
+"551","Shubh Laxmi Guest House","Metropolitan","One Day Use",14,"4","0",100,6,2,128,473,2,"2","2",16,1
+"552","East Avenue Suites","Metropolitan","Single Non AC",4,"3","0",100,15,2,99,1270,3,"1","1",18,1
+"553","Hotel Akash","Urban","Double AC",0,"3","0",100,6,4,2,1500,4,"2","2",14,4
+"554","Mangla Guest House","Metropolitan","Double Non AC",10,"4","0",100,6,2,125,534,13,"2","2",15,1
+"555","Rahul Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,4,112,712,14,"2","2",15,1
+"556","Koolwal Kothi","Urban","Double Non AC",4,"3","0",100,6,5,174,8043,3,"2","2",15,4
+"557","Hotel Everest Park Residency","Urban","Single AC",16,"3","0",100,6,2,84,1575,12,"1","1",17,4
+"558","Hotel Sri Hayagriva","Urban","Double AC",10,"3","0",75,7,2,131,1854,12,"2","2",14,4
+"559","Hotel Ratna Palace","Urban","Double Non AC",15,"3","0",100,6,2,113,724,2,"2","2",15,4
+"560","Kumar Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,2,2,423,2,"2","2",15,1
+"561","Sri Yoga Mandir Guest House","Metropolitan","Double Non AC",13,"4","0",100,6,2,137,712,14,"2","2",15,1
+"562","Wariyam Heritage","Urban","Single Non AC",16,"3","0",67,20,2,159,1482,7,"1","1",18,4
+"563","Park Residency","Metropolitan","Single AC",6,"3","0",100,24,2,125,1850,2,"2","1",17,1
+"564","Hotel Buddha Inn","Metropolitan","Single AC",6,"3","0",100,6,2,112,2568,2,"2","1",17,1
+"565","Malabar Palace","Metropolitan","Single Non AC",8,"3","0",100,6,2,104,3000,7,"2","1",18,1
+"566","Hamara Hotel","Urban","Double AC",5,"3","0",100,6,7,144,2020,8,"2","2",14,4
+"567","The North Park","Metropolitan","Double Non AC",4,"3","0",100,6,2,102,1856,2,"2","2",15,1
+"568","Sabah Homestay","Metropolitan","Single Non AC",1,"2","1",100,6,4,138,473,2,"1","2",18,1
+"569","Mayura Lodge and Residency","Urban","Double Non AC",5,"5","0",100,6,3,29,867,8,"2","2",15,4
+"570","Hotel Shekhawati","Semi-urban","Double AC",10,"3","0",100,6,7,108,1067,3,"2","2",14,3
+"571","Hotel Mangala Towers","Urban","Single Non AC",8,"3","0",100,6,9,142,2313,5,"2","1",18,4
+"572","Hotel Bundelkhand","Urban","Double Non AC",0,"3","0",100,6,3,2,550,2,"2","2",15,4
+"573","Hotel 9th Planet","Urban","Double AC",6,"3","0",100,6,6,128,1775,11,"2","2",14,4
+"574","Roop Niwas Kothi","Urban","Single Non AC",7,"3","0",100,6,6,149,3112,4,"2","1",18,4
+"575","Mayura Inn","Urban","Single AC",4,"3","0",100,6,4,2,1285,2,"2","1",17,4
+"576","Home Away From Home With Breakfast","Metropolitan","Double Non AC",5,"3","1",100,6,4,12,1889,8,"1","2",15,1
+"577","Atithi Ashray","Metropolitan","Single Non AC",10,"3","1",100,6,3,136,1042,10,"2","1",18,1
+"578","Hotel Pratap Palace","Metropolitan","Single AC",0,"3","0",100,6,5,123,2037,11,"1","1",17,1
+"579","Aswini Residency","Urban","Single AC",0,"3","0",100,6,4,159,1994,2,"1","1",17,4
+"580","Diamond Lounge Homestay","Metropolitan","Double Non AC",16,"2","0",100,6,8,7,1512,6,"1","2",15,1
+"581","Aashray Homestay","Metropolitan","Double AC",7,"2","1",100,6,5,2,3306,2,"2","2",14,1
+"582","Hotel Shreeji","Metropolitan","Single Non AC",0,"3","0",100,6,6,2,389,2,"1","1",18,1
+"583","Hotel PatliPutra Nirvana","Metropolitan","Single Non AC",20,"3","0",100,6,2,121,1899,12,"2","1",18,1
+"584","Pooram International Hotel","Urban","Single AC",9,"3","0",100,6,3,137,2365,3,"2","1",17,4
+"585","Homely Homestay","Metropolitan","Double AC",19,"2","0",100,6,4,9,1889,12,"1","2",14,1
+"586","Kappad Beach Resort","Metropolitan","Double AC",6,"6","0",100,6,2,122,2778,2,"2","2",14,1
+"587","Hotel The Panache","Metropolitan","Double AC",13,"3","0",100,6,2,145,6934,2,"2","2",14,1
+"588","Hotel Sangam Residency","Urban","Double Non AC",15,"3","0",100,6,2,94,800,7,"2","2",15,4
+"589","Fathima Luxury House Boat","Urban","Single AC",0,"4","0",100,6,2,2,9445,8,"2","0",17,4
+"590","Hotel Devi Sridevi","Urban","Double Non AC",13,"3","0",100,20,2,84,600,3,"2","2",15,4
+"591","Park Inn Resort","Metropolitan","Single AC",39,"6","0",100,6,2,87,2078,2,"2","1",17,1
+"592","Hotel Nirmala","Urban","Single Non AC",6,"3","0",0,0,2,125,1560,3,"1","1",18,4
+"593","Hotel Shri Prakash Inn","Urban","Double AC",0,"3","0",100,6,7,2,1500,2,"2","2",14,4
+"594","Haveli Sadavarte Apartment","Urban","1 BHK",0,"1","0",100,6,2,2,1000,2,"2","2",1,4
+"595","Om Sai Guest House","Metropolitan","Dormitary",0,"4","0",100,6,2,126,288,13,"2","1",13,1
+"596","Natraj Inn Paying Guest House","Metropolitan","Double Non AC",3,"4","0",100,6,2,2,578,10,"2","2",15,1
+"597","Hotel Divya Palace","Urban","Single Non AC",3,"3","0",100,6,5,2,445,2,"1","1",18,4
+"598","Sri Lakshmi Narasimha Deluxe Lodge","Urban","Double Non AC",4,"5","0",100,6,2,2,889,5,"2","2",15,4
+"599","Indra Paying Guest House","Metropolitan","Single Non AC",45,"4","1",100,6,6,3,473,16,"0","1",18,1
+"600","Dudhwa TigeRhino Resort","Metropolitan","Double AC",6,"6","0",100,6,2,2,2070,2,"2","2",14,1
+"601","Classic Grande","Urban","Single Non AC",0,"3","0",100,6,2,82,3000,2,"2","1",18,4
+"602","Cherisha Lodge","Metropolitan","Single Non AC",0,"5","0",100,6,2,2,334,2,"1","1",18,1
+"603","Safari Guest House","Metropolitan","Single Non AC",2,"4","0",100,6,2,2,334,8,"1","1",18,1
+"604","D S Bungalow Guest House","Urban","Double Non AC",0,"4","0",100,6,4,2,567,2,"2","2",15,4
+"605","Vasco Da Gama Beach Resort","Metropolitan","Double AC",5,"6","0",100,6,2,133,3889,2,"2","2",14,1
+"606","Ganesha Palace","Metropolitan","Double Non AC",11,"3","0",100,6,2,29,1734,11,"2","2",15,1
+"607","Tiwari Guest House","Metropolitan","Double AC",4,"4","0",100,6,5,5,889,12,"0","2",14,1
+"608","Plaza Hotels","Urban","Single AC",17,"3","0",100,6,2,144,1794,12,"2","1",17,4
+"609","Diamond Hotel","Metropolitan","Single AC",15,"3","0",100,6,2,143,3124,10,"2","1",17,1
+"610","Hotel Soorya Galaxy","Metropolitan","Single AC",5,"3","0",100,6,2,86,1472,5,"1","1",17,1
+"611","Shanti Rest House","Metropolitan","Double Non AC",32,"4","1",100,6,4,3,662,17,"1","2",15,1
+"612","Hotel OK International","Metropolitan","Single AC",36,"3","0",100,6,4,90,1875,12,"1","1",17,1
+"613","Royal Crystal","Semi-urban","Double AC",0,"3","1",100,6,2,2,2667,2,"2","2",14,3
+"614","Nila Residency","Metropolitan","Double Non AC",1,"3","0",100,6,7,135,740,4,"2","2",15,1
+"615","Hotel Embassy","Urban","Single AC",0,"3","0",100,6,6,137,1793,2,"2","1",17,4
+"616","Vermas Homestay","Metropolitan","Double Non AC",39,"2","1",100,6,5,7,1417,9,"1","2",15,1
+"617","Hotel Pratham","Metropolitan","Double Non AC",0,"3","0",100,6,4,2,567,2,"2","2",15,1
+"618","Hotel PLA Residency","Urban","Single AC",34,"3","0",100,1,2,123,1687,12,"1","1",17,4
+"619","Hotel Fort","Metropolitan","Single Non AC",54,"3","0",100,6,2,98,1087,12,"2","1",18,1
+"620","Sai Priyankas Comfort Inn","Urban","Double AC",0,"3","0",100,6,7,89,1267,5,"2","2",14,4
+"621","Hotel Kontinental","Metropolitan","Double Non AC",0,"3","0",100,6,4,114,772,2,"2","2",15,1
+"622","Savera Premier Hotel","Metropolitan","Single Non AC",12,"3","0",100,6,2,52,3399,2,"2","1",18,1
+"623","Naga Mayuri Grand A/C","Urban","Single Non AC",0,"3","0",100,6,3,2,845,2,"1","1",18,4
+"624","DE Grand Heritage","Metropolitan","Single Non AC",0,"3","0",100,6,5,136,1539,5,"1","1",18,1
+"625","Hotel Crown","Urban","Double Non AC",9,"3","0",100,6,4,100,1540,6,"2","2",15,4
+"626","Hotel Sapphire","Semi-urban","Double Non AC",11,"3","0",100,6,10,120,3828,2,"2","0",15,3
+"627","Hotel Sarna","Metropolitan","Double AC",0,"3","0",100,6,5,2,1250,2,"2","2",14,1
+"628","Hotel Nila Residency","Urban","Double AC",9,"3","0",100,6,4,100,2267,8,"2","2",14,4
+"629","Sun View Paying Guest House","Metropolitan","Single Non AC",0,"4","0",100,6,2,2,267,2,"1","1",18,1
+"630","Shree Sai Kripa Guest House","Metropolitan","Double Non AC",16,"4","0",100,6,2,132,534,13,"2","2",15,1
+"631","Mohit Paying Guest House","Metropolitan","Single Non AC",1,"4","0",100,6,4,95,389,13,"1","1",18,1
+"632","Hotel Yaiphaba","Urban","Single Non AC",0,"3","0",100,6,2,156,2106,3,"2","1",18,4
+"633","Varanasi Home Stay","Metropolitan","Double AC",6,"3","1",100,6,2,63,1667,5,"2","2",14,1
+"634","Hotel BK","Urban","Double Non AC",0,"3","0",100,6,5,84,600,7,"2","2",15,4
+"635","Hotel Sahi Palace","Urban","Double AC",13,"3","0",100,6,9,110,2312,6,"2","2",14,4
+"636","Hotel Durga","Urban","Single Non AC",0,"3","0",100,6,4,100,300,2,"1","1",18,4
+"637","Hotel Amrutha","Metropolitan","Single Non AC",6,"3","0",25,1,2,307,1180,9,"1","1",18,1
+"638","Hotel Roopam Dudhwa","Metropolitan","Double Non AC",0,"3","0",100,6,4,2,693,2,"2","2",15,1
+"639","Hotel JK Residency","Urban","Single AC",5,"3","0",0,0,3,95,2657,4,"2","1",17,4
+"640","Rayirath Heritage","Urban","Single AC",5,"3","0",100,6,5,120,1467,2,"1","1",17,4
+"641","Pearl Clubs Guest House","Metropolitan","Single Non AC",41,"4","0",100,6,3,152,976,10,"1","1",18,1
+"642","Hotel Rijent","Urban","Double Non AC",0,"3","0",100,6,2,118,389,2,"2","2",15,4
+"643","Radiant YMCA Tourist Hostel","Metropolitan","Single Non AC",19,"3","0",100,6,2,102,723,13,"1","1",18,1
+"644","Westend Hotel Matheran","Rural","Double AC",2,"3","0",0,0,2,82,4807,2,"2","2",14,2
+"645","Hotel HKJ Palace","Metropolitan","Single AC",43,"3","0",100,6,5,116,1667,12,"2","1",17,1
+"646","Sreeraj Residency","Urban","Double AC",16,"3","0",100,6,5,114,1367,9,"2","2",14,4
+"647","Durshet Forest Lodge","Urban","Cottage",2,"5","0",100,6,2,85,6500,2,"2","2",12,4
+"648","Hotel Windsor","Metropolitan","Single AC",12,"3","0",100,6,2,146,2375,12,"2","1",17,1
+"649","Hotel Jagadeeswari","Urban","Single Non AC",14,"3","0",100,6,4,118,700,3,"1","1",18,4
+"650","Transit Bay","Urban","Single AC",9,"3","0",67,1,2,2,1055,2,"1","1",17,4
+"651","Abad Whispering Palms Lake Resort","Metropolitan","Cottage",9,"6","0",100,6,2,144,4650,11,"2","2",12,1
+"652","Hotel Vandana Palace","Metropolitan","Single Non AC",0,"3","0",100,6,8,2,679,2,"1","1",18,1
+"653","The Hotel Swastik Inn","Metropolitan","Single Non AC",28,"3","0",0,0,2,102,836,9,"1","1",18,1
+"654","Home Palace","Metropolitan","Double AC",38,"3","0",100,6,2,25,800,3,"2","2",14,1
+"655","World Choice Orchid Premier Hotel","Metropolitan","Single Non AC",80,"3","0",100,6,2,2,3570,2,"2","1",18,1
+"656","Hotel Malayoram Gateway","Metropolitan","Single AC",14,"3","0",100,6,2,116,2245,2,"1","1",17,1
+"657","Anjanvel Agro Tourism","Semi-urban","Double Non AC",12,"3","1",100,6,2,74,1889,2,"2","2",15,3
+"658","Asma Tower Hotel","Metropolitan","Single Non AC",6,"3","0",100,6,2,136,2924,6,"2","1",18,1
+"659","Hotel Anand Residency","Urban","Double AC",0,"3","0",0,0,2,87,945,2,"2","2",14,4
+"660","Amudhaalayam Service Apartment","Urban","Double Non AC",16,"1","0",0,0,5,2,1250,2,"2","2",15,4
+"661","Khaleej Residency","Metropolitan","Double Non AC",3,"3","0",100,6,2,125,1000,7,"2","2",15,1
+"662","Aditya Palace","Urban","Double Non AC",8,"3","0",100,6,6,106,800,11,"2","2",15,4
+"663","Karnal Haveli","Urban","Double Non AC",74,"3","0",100,6,6,114,3114,2,"2","2",15,4
+"664","Club 7 Hotel","Urban","Single AC",0,"3","0",100,6,6,143,1718,2,"2","2",17,4
+"665","Paraslaxmi Homestay","Metropolitan","Double Non AC",0,"2","1",100,6,2,135,2778,2,"2","2",15,1
+"666","Centurion Hotel","Urban","Single Non AC",0,"3","0",100,6,3,138,623,5,"1","1",18,4
+"667","Ramya Residency","Urban","Single Non AC",5,"3","0",100,6,3,87,450,2,"1","1",18,4
+"668","Zostel Varanasi","Metropolitan","Dormitary",0,"3","0",100,6,2,96,425,13,"2","1",13,1
+"669","Alamanda Guest House","Urban","Double Non AC",0,"4","0",100,6,8,122,1549,2,"2","2",15,4
+"670","Hotel Yuvraj Inn","Urban","Single AC",4,"3","0",100,6,5,101,667,2,"2","1",17,4
+"671","Kedar Guest House","Metropolitan","Single Non AC",4,"4","0",100,6,2,117,383,13,"2","1",18,1
+"672","Hotel Heritage Thikana","Urban","Double AC",5,"3","0",100,6,2,112,1700,2,"2","2",14,4
+"673","Apex Inn Tourist Home","Metropolitan","Single Non AC",7,"3","0",75,1,5,136,608,2,"1","1",18,1
+"674","Hotel Royal Kington","Metropolitan","Single Non AC",6,"3","0",50,1,6,136,1570,8,"1","1",18,1
+"675","Harmony Woods","Semi-urban","Double AC",6,"3","0",100,6,2,114,5667,2,"2","6",14,3
+"676","Hotel Sharda","Metropolitan","Double Non AC",0,"3","0",100,6,4,84,1043,2,"2","2",15,1
+"677","Gautam Lodging Service","Urban","Double AC",0,"3","0",100,6,7,2,1844,11,"2","2",14,4
+"678","Hotel Jaipuria","Metropolitan","Double Non AC",43,"3","0",100,6,2,2,626,10,"2","2",15,1
+"679","Queens Hotel","Metropolitan","Single Non AC",5,"3","0",100,6,2,95,876,3,"1","1",18,1
+"680","Hotel Neelam","Metropolitan","Single Non AC",0,"3","0",100,6,3,2,334,2,"2","1",18,1
+"681","Hotel Anand Continental","Urban","Single Non AC",5,"3","0",25,1,3,85,1569,2,"2","1",18,4
+"682","Hotel Nisa","Metropolitan","Double Non AC",0,"3","0",100,6,5,88,1477,9,"2","2",15,1
+"683","Hotel Ramyas","Urban","Single AC",14,"3","0",100,6,2,128,2286,14,"2","1",17,4
+"684","Deepak Lodge","Urban","Double Non AC",0,"5","0",100,6,2,2,367,2,"2","2",15,4
+"685","Hotel Ashok","Urban","Double Non AC",0,"3","0",50,1,4,2,650,2,"2","2",15,4
+"686","Bhawani Palace","Metropolitan","Single AC",9,"3","0",100,6,2,148,916,5,"1","1",17,1
+"687","Shivakashi Guest House","Metropolitan","Double Non AC",14,"4","0",100,6,2,141,473,14,"2","2",15,1
+"688","Hotel SK Riviera","Urban","Cottage",4,"3","0",100,6,2,93,888,2,"2","2",12,4
+"689","Hotel Vijay Shree Deluxe","Metropolitan","One Day Use",35,"3","0",100,6,2,134,2360,10,"2","1",16,1
+"690","Hotel Vishwamitra International","Urban","Double Non AC",0,"3","0",100,6,6,125,955,12,"2","2",15,4
+"691","Akanksha Inn","Urban","Single AC",15,"3","0",100,24,3,121,1152,5,"2","1",17,4
+"692","Hotel Vinayak International","Metropolitan","Double AC",2,"3","0",100,6,2,106,1814,11,"2","2",14,1
+"693","The Jack Fruit Tree At Beach","Metropolitan","Double AC",9,"3","1",100,6,4,93,6223,2,"2","2",14,1
+"694","Kadamb Sahyadri Hotel","Semi-urban","Double Non AC",26,"3","0",100,11,2,114,1156,2,"2","2",15,3
+"695","Hotel Aakash Ganga","Metropolitan","Single Non AC",0,"3","0",100,6,2,2,534,8,"1","1",18,1
+"696","Hotel Harsha Regency","Urban","Single AC",0,"3","0",100,6,6,91,1586,13,"1","1",17,4
+"697","Carnoustie Beach Resorts And Spa","Urban","Double Non AC",0,"6","0",100,6,2,141,32620,2,"2","6",15,4
+"698","Sasya Pride","Urban","Single AC",0,"3","0",100,6,6,116,2025,7,"1","1",17,4
+"699","Hotel Metro Tower","Metropolitan","Single Non AC",4,"3","0",36,1,5,132,517,2,"2","1",18,1
+"700","Cocobay Resort","Metropolitan","Single Non AC",11,"6","0",0,0,2,159,3670,14,"2","1",18,1
+"701","KSR Royal Fort","Urban","Double Non AC",0,"3","0",100,6,2,115,1273,2,"2","2",15,4
+"702","Rashmi Guest House","Metropolitan","Double AC",16,"4","0",100,6,3,102,2906,11,"2","2",14,1
+"703","HKJ International","Metropolitan","Single AC",13,"3","0",100,6,2,2,1667,11,"2","1",17,1
+"704","Hotel Relax","Urban","Single Non AC",6,"3","0",100,1,2,113,445,2,"1","1",18,4
+"705","Ram Janki Guest House","Urban","Double Non AC",0,"4","0",100,6,3,2,200,2,"2","2",15,4
+"706","Chanakya Inn","Metropolitan","One Day Use",39,"3","0",100,6,2,111,1690,11,"2","1",16,1
+"707","Atithi Satkaar Hotel","Metropolitan","Double Non AC",10,"3","0",100,6,6,118,1563,12,"2","2",15,1
+"708","Hotel Rajavihar Deluxe","Urban","Single Non AC",0,"3","0",100,6,3,135,1302,9,"1","1",18,4
+"709","Hotel Lakeview","Rural","Double Non AC",7,"3","0",100,6,2,85,1334,2,"2","2",15,2
+"710","Panchami Hotel","Urban","Double Non AC",0,"3","0",100,6,5,2,950,4,"2","2",15,4
+"711","SRM Hotel","Urban","Double Non AC",43,"3","0",100,6,2,124,3112,5,"2","2",15,4
+"712","Hotel Imphal","Urban","Single Non AC",0,"3","0",100,6,2,2,1800,2,"2","1",18,4
+"713","Hotel Apollo","Urban","Single Non AC",0,"3","0",100,18,2,2,889,2,"1","1",18,4
+"714","Om Guest House","Metropolitan","Single Non AC",3,"4","0",100,6,5,133,237,10,"1","1",18,1
+"715","Hotel Kailash","Urban","Double AC",0,"3","0",100,6,6,2,945,3,"2","2",14,4
+"716","Sakila Homestay","Metropolitan","Single Non AC",21,"2","1",100,6,3,21,473,2,"0","1",18,1
+"717","Hotel Golden Drive","Urban","Double AC",0,"3","0",100,6,5,2,1334,2,"2","2",14,4
+"718","Jyoti Hotel","Urban","Double AC",12,"3","0",100,6,6,34,2770,3,"2","2",14,4
+"719","Rockfort Residency","Urban","2 BHK",14,"3","0",100,6,2,107,3465,2,"2","4",3,4
+"720","Palace On Ganges","Metropolitan","Double Non AC",8,"3","0",100,6,2,136,9243,3,"2","2",15,1
+"721","(*)Ganga Monastery","Metropolitan","Double AC",5,"3","0",100,6,2,121,3788,10,"2","2",14,1
+"722","Sai Krishna River View","Urban","Single Non AC",4,"3","0",100,12,2,105,420,2,"2","1",18,4
+"723","Hotel Vibhav Harsh","Metropolitan","Double AC",16,"3","0",100,6,2,146,2760,11,"2","1",14,1
+"724","Grand Gardenia","Urban","Single Non AC",14,"3","0",100,6,2,149,2804,4,"2","1",18,4
+"725","Sunrise Hotel","Urban","Single AC",6,"3","0",100,6,7,133,1145,2,"2","1",17,4
+"726","Chembil Tourist Home","Urban","Dormitary",0,"3","0",100,6,2,83,250,10,"2","25",13,4
+"727","Patliputra Ashok","Metropolitan","Single Non AC",16,"3","0",100,6,2,105,6809,2,"2","1",18,1
+"728","Harivihar Ayurvedic Heritage Home","Metropolitan","Single Non AC",13,"3","0",100,6,4,82,5895,2,"2","1",18,1
+"729","Hotel Annamalai","Urban","Double Non AC",9,"3","0",50,1,2,137,1210,4,"2","2",15,4
+"730","Apani Dhani Ecolodge","Urban","Double Non AC",3,"5","0",100,6,5,93,1617,2,"2","2",15,4
+"731","Sarweshwary Hotel","Metropolitan","Double Non AC",0,"3","0",100,6,5,92,1138,12,"2","2",15,1
+"732","Vivaana Culture Hotel","Urban","Double Non AC",6,"3","0",100,6,5,118,7655,2,"2","2",15,4
+"733","Anami Lodge","Metropolitan","Single Non AC",10,"5","0",100,6,3,39,405,19,"1","1",18,1
+"734","Hotel Silver Sand","Urban","Double AC",6,"3","0",100,6,2,93,1733,12,"2","2",14,4
+"735","Hotel City Heart","Urban","Double Non AC",0,"3","0",100,6,2,2,712,4,"2","2",15,4
+"736","Manaka Guest House","Metropolitan","Single Non AC",7,"4","1",100,19,4,32,332,13,"0","1",18,1
+"737","Hotel Elena","Metropolitan","Double Non AC",12,"3","0",100,6,2,126,826,13,"2","2",15,1
+"738","Hotel Urvasi Lodge","Urban","Double Non AC",11,"5","0",100,6,2,131,845,2,"2","2",15,4
+"739","VMS Homestay With Breakfast","Metropolitan","Double Non AC",15,"2","1",100,6,5,13,2220,5,"1","2",15,1
+"740","K R Grand Residency","Urban","Double AC",2,"3","0",100,6,2,132,2878,5,"2","2",14,4
+"741","Hotel Royal Ville","Metropolitan","Single Non AC",14,"3","0",100,6,2,141,2194,11,"2","1",18,1
+"742","Hotel Sonas","Urban","Single Non AC",22,"3","0",100,6,2,118,1604,12,"2","1",18,4
+"743","Sai Krishna Residency A/c Lodge","Urban","Double AC",0,"5","0",100,6,3,68,1423,4,"2","2",14,4
+"744","Raj Guest House","Metropolitan","Double Non AC",46,"4","0",100,6,5,108,600,10,"2","2",15,1
+"745","Hotel Relax Inn","Metropolitan","Single AC",11,"3","0",100,6,5,34,1253,12,"1","1",17,1
+"746","Namdev Dharamshala","Urban","Double Non AC",0,"3","0",100,6,2,120,334,2,"2","2",15,4
+"747","The Renaissance Hotel","Metropolitan","Double Non AC",4,"3","0",50,1,5,104,778,2,"2","2",15,1
+"748","Hotel La Revival","Semi-urban","Double Non AC",12,"3","0",100,6,2,81,2846,6,"2","2",15,3
+"749","Kerala House Boat Premium","Urban","Double AC",0,"4","0",100,6,2,98,7556,7,"2","2",14,4
+"750","Vijey Hotel","Urban","Single AC",27,"3","0",100,6,2,105,1238,10,"2","1",17,4
+"751","Ashoka Inn","Urban","Single AC",3,"3","0",100,6,6,137,3540,2,"1","1",17,4
+"752","Hotel Suraj Grand","Urban","Double AC",0,"3","0",100,1,7,132,1907,6,"2","2",14,4
+"753","The Vaishali Residency","Urban","Single AC",11,"3","0",100,6,6,130,5690,2,"1","1",17,4
+"754","Gulfishan Homestay","Metropolitan","Double AC",35,"2","1",100,6,3,2,1417,9,"0","2",14,1
+"755","Hotel Sanwariya Bhagwan","Urban","Double Non AC",3,"3","0",100,6,3,97,700,2,"2","2",15,4
+"756","Hotel Aalcajars Inn","Metropolitan","Double Non AC",68,"3","0",100,6,5,2,4387,10,"1","2",15,1
+"757","Space & Spice","Metropolitan","Single AC",34,"7","0",100,6,2,142,1458,11,"2","1",17,1
+"758","Paramount Tower","Metropolitan","Single AC",5,"3","0",100,6,6,114,3207,2,"1","1",17,1
+"759","Aroma Hotel","Urban","Double AC",27,"3","0",100,6,9,127,4666,2,"2","2",14,4
+"760","Geeta Paying Guest House","Metropolitan","Single Non AC",2,"4","0",100,6,2,2,278,2,"2","1",18,1
+"761","Royal Tourist Home palakkad town","Urban","Single Non AC",11,"3","0",100,11,2,143,515,2,"1","1",18,4
+"762","Juna Akhara","Metropolitan","Dormitary",12,"3","0",100,6,2,2,78,12,"2","1",13,1
+"763","Ganges Stop Guest House","Metropolitan","Double Non AC",5,"4","0",100,6,3,129,709,13,"2","2",15,1
+"764","Marina Residency","Metropolitan","Double AC",5,"3","0",100,11,2,146,2969,9,"2","2",14,1
+"765","Jyoti Hotel","Metropolitan","Double Non AC",14,"3","0",100,6,3,108,1067,8,"2","2",15,1
+"766","Hotel Ashraya Residency","Urban","Double AC",7,"3","0",100,23,5,120,1245,2,"2","2",14,4
+"767","Suganthi Residency","Urban","Single Non AC",16,"3","0",25,21,5,139,1000,2,"2","1",18,4
+"768","Aquarius Cottage","Metropolitan","Cottage",7,"3","1",100,1,2,177,3334,2,"2","6",12,1
+"769","Hotel Athidhi Regency","Urban","Single AC",4,"3","0",100,6,3,2,1454,13,"1","1",17,4
+"770","Hotel New Airlines","Urban","Single Non AC",0,"3","0",67,1,2,2,878,2,"1","1",18,4
+"771","Anubhav Homestay","Metropolitan","Double AC",37,"2","1",100,6,3,37,1417,9,"1","2",14,1
+"772","Vasundhara Sarovar Premiere","Urban","Double AC",13,"3","0",100,6,8,126,8334,2,"2","2",14,4
+"773","Hotel Palace Tower","Urban","Double Non AC",1,"3","0",100,21,8,143,1139,11,"2","2",15,4
+"774","Hotel Siddharth Deoli","Urban","Double Non AC",0,"3","0",100,6,3,108,473,2,"2","2",15,4
+"775","Woodlands Lodge","Urban","Single Non AC",0,"5","0",100,1,5,92,316,2,"1","1",18,4
+"776","Ali Baba Guest House","Metropolitan","Double Non AC",9,"4","0",100,6,2,102,623,14,"2","2",15,1
+"777","White Water Woods Resorts","Metropolitan","Single Non AC",6,"6","0",100,6,2,131,889,2,"1","1",18,1
+"778","Backwater Ripples","Metropolitan","Double Non AC",12,"3","0",100,6,2,152,6259,11,"2","2",15,1
+"779","Hotel Nawalgarh Plaza","Urban","Single Non AC",15,"3","0",100,6,11,125,2222,2,"2","1",18,4
+"780","Sonmony Hotel","Metropolitan","Double Non AC",7,"3","0",100,6,2,121,538,3,"2","2",15,1
+"781","Hotel Sathyam","Urban","One Day Use",26,"3","0",100,1,5,149,1112,5,"2","1",16,4
+"782","The Corporate Residence","Metropolitan","Single AC",49,"3","0",100,6,2,111,667,7,"1","1",17,1
+"783","Mezbaan Regency","Urban","Double Non AC",9,"3","0",50,1,7,142,1958,12,"2","2",15,4
+"784","Hotel Raj Mahal","Metropolitan","Double Non AC",15,"3","0",100,6,2,116,832,11,"2","2",15,1
+"785","Hotel Castle Mandawa","Semi-urban","Single Non AC",16,"3","0",100,6,2,150,7094,2,"2","1",18,3
+"786","Royal King Resort","Metropolitan","Single AC",29,"6","0",100,6,2,109,1949,12,"2","1",17,1
+"787","Rudra Houseboats","Metropolitan","Single Non AC",16,"4","0",50,1,2,101,7778,2,"2","2",18,1
+"788","Hotel King Paradise","Urban","Single AC",19,"3","0",100,6,2,56,1684,10,"1","1",17,4
+"789","Aditya Houseboat","Urban","10 BHK",0,"4","0",100,6,2,107,3889,2,"2","20",2,4
+"790","Hotel Pinky","Urban","Double Non AC",9,"3","0",100,6,5,99,824,11,"2","2",15,4
+"791","Nilma Homestay","Metropolitan","Double Non AC",14,"2","0",100,6,4,6,1889,12,"1","2",15,1
+"792","Hotel Temple In","Urban","Single Non AC",24,"3","0",67,1,2,96,658,2,"1","1",18,4
+"793","Lakesong Resort","Metropolitan","Double AC",8,"6","0",100,6,5,101,4778,8,"2","2",14,1
+"794","Siva Balaji Residency","Urban","Double Non AC",9,"3","0",100,6,4,94,687,2,"2","2",15,4
+"795","Savera Business Luxury Hotel","Metropolitan","Single AC",18,"3","0",100,6,2,52,2877,8,"2","1",17,1
+"796","Hotel NG Paradise","Urban","Single Non AC",3,"3","0",100,6,5,120,1525,2,"2","1",18,4
+"797","Dukes Retreat","Semi-urban","Double Non AC",25,"3","0",100,6,2,171,19925,2,"2","2",15,3
+"798","Hotel R P International","Metropolitan","Single Non AC",23,"3","0",100,6,5,103,1203,11,"1","1",18,1
+"799","Moms Care Paying Guest House","Metropolitan","Single Non AC",18,"4","1",100,6,8,13,445,17,"0","1",18,1
+"800","Sita Guest House","Metropolitan","Double Non AC",63,"4","0",100,6,7,151,1156,10,"2","2",15,1
+"801","Hotel Laavish","Metropolitan","Double AC",9,"3","0",100,6,6,116,2030,9,"2","2",14,1
+"802","Hotel Lord Shiva","Metropolitan","Single AC",24,"3","0",100,15,9,6,1039,12,"0","1",17,1
+"803","Bini Tourist Home","Urban","Double Non AC",3,"3","0",100,6,7,2,1014,3,"2","2",15,4
+"804","Ashoka Residency","Metropolitan","Double AC",8,"3","0",100,6,2,125,2323,2,"2","2",14,1
+"805","Highway Palace Inn","Urban","Double Non AC",6,"3","0",100,6,4,118,1112,11,"2","2",15,4
+"806","Kundan Guest House","Urban","Double AC",4,"4","0",100,6,2,2,2223,16,"2","2",14,4
+"807","Hotel Republic","Metropolitan","Single AC",116,"3","0",100,6,2,127,2735,8,"1","1",17,1
+"808","Alam Residency","Urban","Single AC",19,"3","0",100,7,2,117,1458,12,"1","1",17,4
+"809","Kanishkaa Inn(As)","Urban","Double Non AC",0,"3","0",100,6,2,99,1438,6,"2","2",15,4
+"810","Fariyas Holiday Resort","Semi-urban","Double Non AC",26,"6","0",0,0,2,96,9412,2,"2","2",15,3
+"811","Hotel luciya palace","Urban","Single AC",5,"3","0",100,6,14,140,2863,5,"1","1",17,4
+"812","Hotel Anjani","Urban","Double Non AC",1,"3","0",100,6,8,105,889,10,"2","2",15,4
+"813","Hotel Sama","Metropolitan","Double Non AC",0,"3","0",100,6,5,2,834,2,"2","2",15,1
+"814","Hotel Jetty Grand","Urban","Single AC",7,"3","0",100,24,3,141,1493,8,"1","1",17,4
+"815","Hotel Bheigo","Urban","Single Non AC",9,"3","0",34,1,3,135,889,3,"2","1",18,4
+"816","Dream city centre","Urban","One Day Use",6,"3","0",100,6,4,170,223,2,"2","1",16,4
+"817","Hot Sizzlers Resort","Urban","Double AC",8,"6","0",100,6,9,117,1500,2,"2","2",14,4
+"818","Madhuban Delux Lodge","Urban","Single Non AC",0,"5","0",100,6,3,2,500,2,"2","1",18,4
+"819","Ajay Guest House","Metropolitan","Double Non AC",10,"4","0",100,6,2,118,1134,2,"2","2",15,1
+"820","Marilyn Guest House","Metropolitan","Double Non AC",10,"4","0",100,6,2,125,662,14,"2","2",15,1
+"821","Hotel Royal Sathyam","Urban","Single Non AC",6,"3","0",100,6,2,88,1353,6,"2","1",18,4
+"822","Sudarshan Palace Lodge","Urban","Dormitary",0,"5","0",100,6,2,84,167,2,"2","11",13,4
+"823","The Varanasi Rest House","Metropolitan","Single Non AC",2,"4","0",100,6,2,2,223,2,"2","1",18,1
+"824","Carnival Resort","Urban","Double AC",35,"6","0",100,6,5,139,2413,2,"2","2",14,4
+"825","Grey Pelican","Urban","Double AC",0,"3","0",100,6,6,2,2415,2,"2","2",14,4
+"826","Hotel Desert N Dunes","Semi-urban","Single AC",3,"3","0",100,6,5,145,2917,2,"2","1",17,3
+"827","Nvr Hotels","Urban","Single AC",0,"3","0",100,6,3,2,1000,2,"2","1",17,4
+"828","Hotel Galaxy Inn","Urban","Double AC",4,"3","0",100,6,2,116,1417,9,"2","2",14,4
+"829","Hotel Shantai","Urban","Double Non AC",10,"3","0",100,7,7,129,1053,6,"2","2",15,4
+"830","Prabha Paying Guest House","Metropolitan","Double Non AC",26,"4","1",100,6,8,3,756,14,"1","2",15,1
+"831","Hotel Buddha Heritage","Metropolitan","Single AC",11,"3","0",100,6,2,130,3334,2,"2","1",17,1
+"832","Hotel Bhavya","Urban","Double Non AC",0,"3","0",100,6,3,104,945,5,"2","2",15,4
+"833","Raman Hotel","Urban","Double AC",0,"3","0",100,6,4,148,1889,3,"2","2",14,4
+"834","Executive Holiday","Metropolitan","Single AC",13,"3","0",100,6,2,2,2420,12,"2","1",17,1
+"835","Iris Business Hotel","Metropolitan","Double AC",7,"3","0",100,6,2,2,4596,10,"2","2",14,1
+"836","Sri Sai Satram","Metropolitan","4 Bedded Non AC",7,"3","0",100,6,2,2,945,2,"2","4",7,1
+"837","Hotel Corporate Inn","Metropolitan","Single AC",14,"3","0",100,6,6,124,2734,9,"2","1",17,1
+"838","Sagar Guest House","Metropolitan","Double Non AC",10,"4","0",100,6,2,106,445,15,"2","2",15,1
+"839","Hotel Deva Inn","Metropolitan","Double AC",15,"3","0",100,6,4,63,1536,12,"2","2",14,1
+"840","The Ark Wellness Retreat","Metropolitan","Single AC",6,"3","0",100,6,6,77,6827,2,"1","1",17,1
+"841","Hotel Premiere Villa","Metropolitan","Double AC",21,"8","0",100,6,2,135,3082,13,"2","2",14,1
+"842","Hotel Pearl Regency","Urban","Single Non AC",14,"3","0",0,24,4,147,1133,11,"1","1",18,4
+"843","Ammu Regency","Urban","Single Non AC",8,"3","0",22,1,6,129,1223,11,"1","1",18,4
+"844","Tamilnadu Guest House","Metropolitan","Double AC",14,"4","0",100,6,2,93,1334,3,"2","2",14,1
+"845","Hotel Athidi Regency","Urban","Single AC",0,"3","0",100,6,6,129,1500,13,"2","1",17,4
+"846","Hotel Isha","Semi-urban","Double Non AC",7,"3","0",100,6,2,125,1865,7,"2","2",15,3
+"847","Platinum Renai Green Fields","Metropolitan","Double Non AC",7,"3","0",100,6,5,135,4056,4,"2","2",15,1
+"848","BAS Regency","Urban","Double AC",0,"3","0",100,6,4,87,1276,7,"2","2",14,4
+"849","The Raviz Calicut","Metropolitan","Double AC",4,"3","0",100,6,5,235,7872,2,"1","3",14,1
+"850","Hotel Orbit","Urban","Double AC",0,"3","0",100,6,4,89,1600,7,"2","2",14,4
+"851","Hotel Venkatesh","Metropolitan","Single Non AC",15,"3","0",100,6,8,89,445,7,"2","1",18,1
+"852","The Mourya Inn","Urban","Single Non AC",37,"3","0",100,6,13,85,1432,13,"2","1",18,4
+"853","Hotel Udayshree Palace","Urban","Single Non AC",0,"3","0",100,6,3,94,594,6,"1","1",18,4
+"854","Maruti Guest House","Metropolitan","Double Non AC",3,"4","0",100,6,3,147,473,15,"2","2",15,1
+"855","Hotel RB International","Metropolitan","Single Non AC",7,"3","0",0,0,2,108,712,12,"1","1",18,1
+"856","Avantika Resort","Metropolitan","Double AC",0,"6","0",100,6,2,116,1123,2,"2","2",14,1
+"857","Eden Valley Resort","Urban","Double Non AC",9,"6","0",100,24,2,131,1000,2,"2","2",15,4
+"858","Sri Iswarya Residency","Urban","Single Non AC",4,"3","0",100,6,2,129,620,3,"1","1",18,4
+"859","Copper Folia","Metropolitan","Single Non AC",4,"3","0",100,6,3,141,4078,2,"2","1",18,1
+"860","Hotel Ashoka","Semi-urban","Double Non AC",23,"3","0",0,0,2,83,1200,2,"2","2",15,3
+"861","Hotel Nupur Chakan","Metropolitan","Double Non AC",11,"3","0",100,6,7,100,1145,3,"2","2",15,1
+"862","Bethesda Home Stay(AS)","Urban","Double Non AC",4,"3","1",100,6,2,137,612,2,"2","2",15,4
+"863","Sri Ratna Lodge","Urban","Single Non AC",9,"5","0",100,6,2,122,334,4,"1","1",18,4
+"864","Hotel Vishwanath","Metropolitan","Double Non AC",62,"3","0",100,6,2,121,2083,8,"2","2",15,1
+"865","Hotel Mayas","Urban","Double Non AC",21,"3","0",100,6,5,136,1549,12,"2","2",15,4
+"866","Hotel Span","Metropolitan","Single Non AC",5,"7","0",100,6,3,158,1050,9,"1","1",18,1
+"867","Rajesh Homestay","Metropolitan","Double Non AC",9,"2","0",100,6,5,6,1417,9,"1","2",15,1
+"868","Hotel Udai Vilas Palace","Semi-urban","Double AC",4,"3","0",100,6,11,136,4314,3,"2","2",14,3
+"869","Hotel Om Palace","Semi-urban","Double Non AC",29,"3","0",100,6,2,2,1512,2,"2","2",15,3
+"870","Khushi Paying Guest House","Metropolitan","Double Non AC",11,"4","0",100,6,2,136,712,15,"2","2",15,1
+"871","Hotel Royal Garden","Urban","Double Non AC",0,"3","0",100,6,2,2,926,4,"2","2",15,4
+"872","Sandhya Guest House","Metropolitan","Double Non AC",5,"4","0",100,6,2,49,445,17,"2","2",15,1
+"873","Ashirwad Heritage Resorts","Metropolitan","Double Non AC",7,"6","0",100,6,2,124,4667,13,"2","2",15,1
+"874","Hotel Singhasan Haveli","Semi-urban","Single AC",5,"3","0",100,6,7,133,1423,8,"2","1",17,3
+"875","Dr Modis Health Resort","Rural","Double AC",7,"6","0",100,6,7,139,5698,2,"2","2",14,2
+"876","The Varanasi Rest House","Metropolitan","Double Non AC",1,"4","1",100,6,4,2,378,10,"0","2",15,1
+"877","Maa Somaria Guest House-1","Metropolitan","Double Non AC",46,"4","0",100,6,2,99,889,2,"2","2",15,1
+"878","Shree Hare Rama Hare Krishna Guest House","Metropolitan","Single Non AC",10,"4","0",100,6,4,113,400,11,"1","1",18,1
+"879","Hotel Banaras Haveli","Metropolitan","Single AC",25,"3","0",100,6,2,107,4920,9,"2","1",17,1
+"880","Arunima Heritage Homes","Urban","Double Non AC",0,"3","0",100,6,3,156,800,9,"2","2",15,4
+"881","Sangam Hotel Trichy","Urban","Single Non AC",10,"3","0",100,13,2,103,3334,2,"2","1",18,4
+"882","Basant Vihar Hotel","Urban","Double Non AC",0,"3","0",100,6,2,2,500,2,"2","2",15,4
+"883","Brand Residency","Metropolitan","Double Non AC",8,"3","1",100,6,2,9,1417,6,"2","2",15,1
+"884","Hotel Amudham Residency","Urban","Single Non AC",10,"3","0",100,6,2,88,807,10,"1","1",18,4
+"885","Hotel Prakash","Metropolitan","Double AC",0,"3","0",100,6,3,2,1300,2,"2","2",14,1
+"886","SI hotel and Resorts","Metropolitan","Double Non AC",2,"6","0",100,6,7,12,2834,2,"2","2",15,1
+"887","Hotel S V Regency","Urban","Single AC",12,"3","0",100,6,3,125,1563,12,"1","1",17,4
+"888","Ishan Paying Guest House","Metropolitan","Single Non AC",4,"4","0",100,6,4,131,489,17,"2","2",18,1
+"889","Hotel New Mega Palace","Metropolitan","Single Non AC",22,"3","0",100,6,2,93,637,6,"1","1",18,1
+"890","Hotel Royale Park","Urban","Double AC",9,"3","0",100,6,3,132,2827,3,"2","2",14,4
+"891","Hotel Emarald","Metropolitan","Double AC",6,"3","0",100,6,2,94,2778,10,"2","2",14,1
+"892","Marari Beach Paradise","Urban","Double Non AC",0,"3","0",100,6,2,2,3319,8,"2","2",15,4
+"893","Patliputra Homestay","Metropolitan","Double Non AC",29,"2","1",100,1,4,147,1417,10,"1","2",15,1
+"894","Green Farm Holidays","Urban","Double AC",0,"3","0",100,6,2,79,6612,10,"2","2",14,4
+"895","Welcome Guest House","Urban","Double Non AC",0,"4","0",100,6,4,2,300,2,"2","2",15,4
+"896","Hotel Astor","Metropolitan","Single AC",12,"3","0",100,6,2,125,2687,9,"2","1",17,1
+"897","Hotel Devasura Inn","Urban","Double Non AC",18,"3","0",100,6,4,121,1459,5,"2","2",15,4
+"898","Hotel Temple On Ganges","Metropolitan","Double AC",9,"3","0",100,6,2,100,1875,12,"2","2",14,1
+"899","Star hotel","Urban","Double AC",0,"3","0",100,6,3,2,1113,2,"2","2",14,4
+"900","Marigold P Guest House","Metropolitan","Single Non AC",0,"4","0",100,6,2,127,473,2,"1","1",18,1
+"901","Hotel Rich Garden","Urban","Double Non AC",1,"3","0",100,6,3,99,556,2,"2","2",15,4
+"902","Hotel Saffron","Urban","Double Non AC",20,"3","0",100,6,8,137,1719,11,"2","2",15,4
+"903","Shankar Vilas Lodge","Urban","Single Non AC",0,"5","0",100,6,3,2,250,2,"1","1",18,4
+"904","Abhay Hotels And Resorts","Metropolitan","Double Non AC",5,"6","0",100,6,2,135,1576,5,"2","2",15,1
+"905","Hotel Bessota International","Urban","Single Non AC",0,"3","0",100,6,2,142,1543,2,"2","1",18,4
+"906","Jubilee Homestay","Urban","5 Bedded AC",4,"2","1",100,6,2,91,4723,2,"2","5",8,4
+"907","Hotel Sunrise","Metropolitan","Double Non AC",14,"3","0",100,6,2,152,500,14,"2","2",15,1
+"908","Hotel Akash Lodging","Urban","Single Non AC",0,"3","0",100,6,4,2,389,2,"1","1",18,4
+"909","Krishna Hotel","Urban","Double Non AC",0,"3","0",100,6,5,132,350,2,"2","2",15,4
+"910","Hotel Cresent Villa","Metropolitan","Single AC",4,"8","0",100,6,8,149,2907,12,"2","1",17,1
+"911","Gokul Cruise Houseboats","Urban","Single Non AC",0,"4","0",100,6,2,114,9445,2,"2","1",18,4
+"912","Ganga Tourist Lodge","Metropolitan","Single Non AC",12,"5","0",100,6,2,316,830,11,"1","1",18,1
+"913","Hotel Kimaya","Urban","Double AC",10,"3","0",100,9,5,102,1390,3,"2","2",14,4
+"914","Dynasty Paying Guest House","Metropolitan","Double Non AC",1,"4","0",100,6,2,4,889,2,"1","2",15,1
+"915","Mega Tourist Home","Urban","Double Non AC",13,"3","0",100,6,2,140,473,3,"2","2",15,4
+"916","Mullackal homestay","Urban","Single Non AC",43,"2","1",100,6,7,138,1267,10,"2","1",18,4
+"917","Lodge Gopal Shri","Urban","Single Non AC",0,"5","0",100,6,4,2,334,2,"1","1",18,4
+"918","Hotel Royal House","Metropolitan","Single AC",47,"4","0",100,6,2,177,1880,2,"2","1",17,1
+"919","Pavitri Guest House","Metropolitan","Double Non AC",10,"4","0",100,6,2,86,709,14,"2","2",15,1
+"920","Central Royal Hotel","Urban","Double AC",9,"3","0",100,6,2,101,1800,4,"2","2",14,4
+"921","G N R Residency","Urban","Double Non AC",9,"3","0",100,6,2,2,567,2,"2","2",15,4
+"922","The Grove Resort","Metropolitan","Double Non AC",0,"6","0",100,6,2,129,8000,12,"2","2",15,1
+"923","Central Hotel","Urban","Single AC",13,"3","0",100,6,4,91,2122,8,"1","1",17,4
+"924","Hotel Nirmal Palace","Urban","Double Non AC",0,"3","0",100,6,6,2,615,3,"2","2",15,4
+"925","Hotel Harisons","Metropolitan","Single AC",33,"3","0",100,6,2,113,2718,9,"1","1",17,1
+"926","Anamika Hotel","Urban","Double Non AC",5,"3","0",100,6,5,138,1360,10,"2","2",15,4
+"927","Kanha Paying Guest House","Metropolitan","Single Non AC",32,"4","1",100,6,5,138,667,2,"0","1",18,1
+"928","Hotel Sai International","Urban","Double Non AC",3,"3","0",100,6,3,2,1000,5,"2","2",15,4
+"929","Sri Maruti Pilgrims House","Urban","Double Non AC",14,"4","0",100,6,2,55,634,2,"2","2",15,4
+"930","P.L.A Rathna Residency","Urban","Single AC",25,"3","0",100,1,2,136,2313,11,"1","1",17,4
+"931","Prabhu Sundaram Guest House","Metropolitan","Double Non AC",16,"4","0",100,6,2,123,700,17,"2","2",15,1
+"932","Hotel Relax","Urban","Single Non AC",0,"3","0",100,6,2,2,334,2,"1","1",18,4
+"933","Baba Guest House","Metropolitan","Double Non AC",14,"4","0",100,6,2,63,783,13,"2","2",15,1
+"934","Adarsh Hotel","Semi-urban","Double AC",51,"3","0",100,6,12,115,4609,2,"2","2",14,3
+"935","Hotel Mandawa Haveli","Semi-urban","Single Non AC",8,"3","0",100,6,3,110,1876,3,"2","1",18,3
+"936","Hotel Sarna","Metropolitan","Double Non AC",0,"3","0",0,0,6,2,667,2,"2","2",15,1
+"937","OM Home Guest House","Metropolitan","Single Non AC",10,"4","0",100,6,2,47,267,8,"1","1",18,1
+"938","Hotel Rockfort View","Urban","Single Non AC",23,"3","0",100,6,2,115,2367,9,"2","1",18,4
+"939","Bommana Residency","Urban","Double Non AC",5,"3","0",100,6,3,104,804,8,"2","2",15,4
+"940","Garden Court Club","Metropolitan","Single AC",45,"3","0",100,6,2,103,1407,12,"2","1",17,1
+"941","Hotel Leela Pavilion","Urban","Single AC",4,"3","0",0,0,2,32,2189,2,"2","1",17,4
+"942","Sky Star Residency","Urban","Single Non AC",8,"3","0",100,9,2,90,520,2,"1","1",18,4
+"943","Jai Niwas Resort","Semi-urban","Double AC",11,"6","0",100,6,4,103,1112,2,"2","2",14,3
+"944","Chanda Guest House Varanasi","Metropolitan","One Day Use",4,"4","0",100,6,2,2,300,2,"2","1",16,1
+"945","Hotel Haifa","Metropolitan","Double AC",12,"3","0",100,6,2,124,1645,10,"2","2",14,1
+"946","Hotel Santoor","Metropolitan","Double Non AC",9,"3","0",100,6,2,124,940,12,"2","2",15,1
+"947","Ragavendra Residency","Urban","Double Non AC",0,"3","0",100,6,2,176,2334,10,"2","2",15,4
+"948","Hotel Divine Destination","Metropolitan","Double Non AC",12,"3","0",100,6,2,116,3124,11,"2","2",15,1
+"949","Hotel Relax","Urban","Single Non AC",0,"3","0",100,6,2,2,389,2,"1","1",18,4
+"950","Butterfly Cruise","Urban","One Day Use",7,"3","0",100,6,2,91,6112,2,"2","2",16,4
+"951","Hotel PLA Krishna Inn","Urban","Single Non AC",26,"3","0",100,9,2,75,2348,7,"2","1",18,4
+"952","Prabha Villa Paying Guest House","Metropolitan","Double Non AC",17,"8","1",100,6,8,4,756,13,"1","2",15,1
+"953","Fort Rajamahal Hotel","Urban","Double AC",0,"3","0",100,6,9,2,1778,10,"2","2",14,4
+"954","Metro Tourist Home","Metropolitan","Single Non AC",8,"3","0",100,6,2,2,1234,5,"2","1",18,1
+"955","Hotel Gajapriya","Urban","Single Non AC",10,"3","0",100,1,2,84,978,2,"1","1",18,4
+"956","Hotel The Royal Grove","Metropolitan","Double AC",0,"3","0",100,6,2,110,6667,9,"2","2",14,1
+"957","Hotel Shiv Ganga","Metropolitan","Single Non AC",44,"3","0",100,6,7,119,845,11,"1","1",18,1
+"958","Greenland Delsol Resort","Semi-urban","Double AC",17,"6","0",100,6,4,108,2735,8,"2","2",14,3
+"959","Hotel sara vilas","Semi-urban","Single AC",2,"3","0",100,6,11,123,4965,2,"2","1",17,3
+"960","UKS Resort","Metropolitan","Double AC",6,"6","0",67,1,2,130,2470,9,"2","2",14,1
+"961","shree lodge","Metropolitan","Double Non AC",8,"5","0",100,6,2,15,578,15,"0","2",15,1
+"962","Hotel Kaveri","Urban","Double AC",0,"3","0",100,6,2,2,1162,4,"2","2",14,4
+"963","Hotel Nandini","Metropolitan","Double Non AC",4,"3","0",100,6,2,53,662,13,"2","2",15,1
+"964","Hotel Ganges View","Metropolitan","Double AC",6,"3","0",100,6,2,112,4500,12,"2","2",14,1
+"965","Rudra Resort","Urban","Cottage",7,"6","0",100,6,2,108,3330,2,"2","1",12,4
+"966","Holy Ganges view","Metropolitan","Double Non AC",50,"3","0",100,6,5,110,889,10,"2","2",15,1
+"967","Orange Inn","Metropolitan","Single AC",8,"3","0",100,6,2,136,2767,8,"2","1",17,1
+"968","Diana Homestay","Urban","Double Non AC",0,"2","0",100,6,6,70,1900,12,"2","2",15,4
+"969","Hotel Shelton","Urban","Single AC",10,"3","0",100,6,7,134,3466,2,"2","1",17,4
+"970","National Tourist Home","Urban","Single Non AC",2,"3","0",50,1,3,139,662,4,"1","1",18,4
+"971","Hotel Golden Orchid","Metropolitan","Single Non AC",22,"3","0",100,6,2,124,4548,11,"2","1",18,1
+"972","Babian Inn","Metropolitan","Single AC",0,"3","0",100,6,4,105,2280,13,"1","1",17,1
+"973","Devesh Homestay","Metropolitan","Double AC",3,"2","1",100,6,2,2,2362,2,"2","2",14,1
+"974","Hotel P.S.International","Metropolitan","Single Non AC",0,"3","0",100,6,2,117,1760,11,"2","1",18,1
+"975","Ranjees Hotel","Metropolitan","Single Non AC",20,"3","0",100,6,4,2,5433,12,"2","1",18,1
+"976","New International Inn","Metropolitan","Single AC",2,"3","0",100,6,2,124,2385,11,"2","1",17,1
+"977","The Royal Palace","Metropolitan","Double Non AC",22,"3","0",100,6,2,2,1417,11,"2","2",15,1
+"978","Hotel Shimla Inn","Metropolitan","Single Non AC",33,"3","0",100,6,3,127,445,12,"2","1",18,1
+"979","Hotel Meadows Inn","Metropolitan","Single AC",3,"3","0",100,6,5,115,2685,14,"2","1",17,1
+"980","Hotel Mantra Amaltas","Metropolitan","Double AC",15,"3","0",100,6,9,104,5829,12,"2","2",14,1
+"981","Hotel Relax Inn","Metropolitan","Single AC",24,"3","0",100,6,3,42,1167,14,"2","1",17,1
+"982","Hotel Vishwanath","Metropolitan","One Day Use",61,"3","0",100,6,5,98,1008,11,"2","1",16,1
+"983","Awadh Court Guest House","Metropolitan","Double AC",10,"4","0",100,6,5,95,1712,13,"2","2",14,1
+"984","Lotus Residency","Metropolitan","Single AC",3,"3","0",100,6,2,2,2134,12,"1","1",17,1
+"985","Hotel New RamKrishna","Metropolitan","Double Non AC",1,"3","0",100,6,4,2,789,11,"2","2",15,1
+"986","Hotel Moon Palace","Metropolitan","Double Non AC",43,"3","0",100,6,3,101,712,13,"2","2",15,1
+"987","Uma Guest House","Metropolitan","Double Non AC",32,"4","0",100,10,2,150,489,12,"2","2",15,1
+"988","Hotel Myriad","Metropolitan","Double AC",14,"3","0",100,6,2,119,4165,8,"2","2",14,1
+"989","Hotel Shelter","Metropolitan","Double AC",16,"3","0",100,6,4,115,2290,11,"2","2",14,1
+"990","Hotel Gaylord India","Metropolitan","Single AC",0,"3","0",100,6,2,112,2187,12,"2","1",17,1
+"991","Hotel Monarch Inn","Metropolitan","Single AC",2,"3","0",100,6,2,112,1713,12,"2","1",17,1
+"992","Hotel Pal Avadh","Metropolitan","Single AC",10,"3","0",100,6,9,143,833,10,"1","1",17,1
+"993","Corals Inn","Metropolitan","Single AC",26,"3","0",0,0,2,87,2083,13,"1","1",17,1
+"994","Hotel RamKrishna Gold","Metropolitan","Double Non AC",5,"3","0",100,6,4,63,667,9,"2","2",15,1
+"995","Hotel Samrat","Metropolitan","Double AC",8,"3","0",100,6,2,87,1500,12,"2","2",14,1
+"996","Hotel Cosmos","Metropolitan","Single AC",13,"3","0",100,6,2,2,2915,10,"2","1",17,1
+"997","The Visaya","Metropolitan","Single Non AC",17,"3","0",100,6,9,76,4445,15,"2","1",18,1
+"998","Hotel Modman Inn","Metropolitan","Single AC",18,"3","0",100,6,2,75,2456,8,"2","1",17,1
+"999","Hotel Deep Avadh","Metropolitan","Single AC",82,"3","0",100,6,2,73,1225,10,"2","1",17,1
+"1000","Triloki","Metropolitan","Double Non AC",37,"3","0",100,6,2,2,578,10,"2","2",15,1
+"1001","Hotel Amar Prem","Metropolitan","Single Non AC",9,"3","0",100,6,2,132,789,11,"1","1",18,1
+"1002","Heritage Hotel","Metropolitan","Double Non AC",81,"3","0",100,6,2,133,2626,5,"2","2",15,1
+"1003","Welcome guest house","Metropolitan","Double Non AC",1,"4","0",100,6,2,38,1700,10,"0","2",15,1
+"1004","Vrindavan Guest House","Metropolitan","Double AC",10,"4","0",100,6,2,146,1334,11,"2","2",14,1
+"1005","Hotel The Grand","Metropolitan","Single AC",12,"3","0",100,6,5,102,1168,12,"2","1",17,1
+"1006","Hotel Triveni","Metropolitan","Double Non AC",14,"3","0",100,6,3,145,556,9,"2","2",15,1
+"1007","Hotel Sapna","Metropolitan","Double Non AC",32,"3","0",100,6,2,2,800,16,"2","2",15,1
+"1008","Fateh Vilas","Semi-urban","Double AC",0,"3","0",100,6,2,2,2667,2,"2","2",14,3
+"1009","Best Paying Guest House","Metropolitan","Double Non AC",5,"4","1",100,6,2,2,445,2,"2","2",15,1
+"1010","Shanta VS Continental","Metropolitan","Double AC",6,"3","0",100,6,3,2,1200,12,"2","2",14,1
+"1011","Hotel Rangoli","Metropolitan","Single AC",10,"3","0",100,6,2,117,1500,11,"1","1",17,1
+"1012","Hotel The Grand Radiant","Metropolitan","Single AC",43,"3","0",100,6,2,114,5190,11,"2","1",17,1
+"1013","UNA Homestay UNA House","Metropolitan","Single AC",6,"2","1",100,6,3,104,2078,4,"2","1",17,1
+"1014","Hotel Lucky Inn","Metropolitan","Double Non AC",26,"3","0",100,6,2,2,800,13,"2","2",15,1
+"1015","J C Hotel","Metropolitan","Double AC",29,"3","0",100,6,2,143,1417,2,"2","2",14,1
+"1016","Hotel Golden Sky","Metropolitan","Single AC",16,"3","0",100,6,6,139,1724,10,"2","1",17,1
+"1017","Anand Luxury Villa","Metropolitan","Single AC",95,"8","1",100,6,2,126,1700,2,"1","1",17,1
+"1018","Hotel Executive","Metropolitan","Single AC",12,"3","0",100,6,4,146,2030,12,"2","1",17,1
+"1019","Hotel Syona Residency","Metropolitan","Single AC",10,"3","0",50,1,2,105,2057,12,"2","1",17,1
+"1020","Maa Durga Hotel & Amp; Resturant","Metropolitan","Double Non AC",15,"3","0",100,6,2,2,850,12,"2","2",15,1
+"1021","Hotel Magnate","Metropolitan","One Day Use",16,"3","0",100,6,5,95,1187,12,"2","2",16,1
+"1022","Sitaram Guest House","Metropolitan","Single Non AC",5,"4","0",100,6,2,124,445,12,"2","1",18,1
+"1023","B. P Guest House","Metropolitan","Double AC",8,"4","0",100,6,2,2,2223,7,"2","2",14,1
+"1024","Hotel Just 9 Inn","Metropolitan","Double AC",27,"3","0",100,6,3,115,1245,11,"2","2",14,1
+"1025","De Park Inn","Metropolitan","Single Non AC",10,"3","0",100,6,6,169,1500,12,"2","1",18,1
+"1026","Hotel G Rest","Metropolitan","Double AC",44,"3","0",100,6,2,122,1488,5,"2","2",14,1
+"1027","Hotel Shiva","Metropolitan","Single AC",34,"3","0",100,6,4,108,1244,12,"2","1",17,1
+"1028","Hotel Raj Palace","Metropolitan","Single AC",14,"3","0",100,6,2,132,1064,14,"2","1",17,1
+"1029","Krishna Guest Inn","Metropolitan","Double AC",39,"3","0",100,6,2,31,2084,10,"2","2",14,1
+"1030","RnB Lucknow","Metropolitan","Single Non AC",7,"3","0",100,6,2,97,2592,10,"2","1",18,1
+"1031","Gangaur Hotel","Urban","Double Non AC",0,"3","0",100,6,2,109,1000,2,"2","2",15,4
+"1032","Resort Chalet","Urban","Cottage",2,"6","0",100,6,2,114,8800,2,"2","4",12,4
+"1033","Hotel Safari","Metropolitan","Single Non AC",28,"3","0",100,6,2,106,550,9,"2","1",18,1
+"1034","Shivam Inn","Metropolitan","Single Non AC",10,"3","0",100,6,3,156,2907,13,"2","1",18,1
+"1035","Surya Continental Hotel","Metropolitan","Double AC",58,"3","0",100,6,2,2,2778,12,"2","2",14,1
+"1036","Hotel Shanta Inn","Metropolitan","Single AC",10,"3","0",100,6,2,76,2388,12,"2","2",17,1
+"1037","Nattha Lodge","Metropolitan","Double Non AC",18,"5","0",100,6,2,2,667,7,"2","2",15,1
+"1038","Daisy Home","Urban","Single AC",3,"3","0",100,6,2,144,1500,12,"2","1",17,4
+"1039","Hotel Tekarees Inn","Metropolitan","Single AC",9,"3","0",100,6,2,148,2187,12,"2","1",17,1
+"1040","Hotel Silver Ferns","Metropolitan","Single AC",14,"3","0",100,6,4,109,5293,11,"2","1",17,1
+"1041","Hotel IP Palace","Metropolitan","Single AC",29,"3","0",100,6,2,114,1666,11,"2","1",17,1
+"1042","Crown Inn Guest House","Metropolitan","Double AC",26,"4","0",100,6,5,105,1965,12,"2","2",14,1
+"1043","Hotel Amanda","Metropolitan","Single AC",14,"3","0",50,1,2,110,3159,10,"2","1",17,1
+"1044","Hotel Royal Regency","Metropolitan","Double AC",31,"3","0",100,6,6,119,1535,7,"2","2",14,1
+"1045","Hotel Uday Raj Palace","Metropolitan","Single AC",6,"3","0",100,6,2,144,1056,11,"2","2",17,1
+"1046","Travellers Inn","Metropolitan","Double AC",29,"3","0",100,6,2,2,1662,12,"2","2",14,1
+"1047","Hotel Naznin Palace","Metropolitan","Double Non AC",25,"3","0",100,6,2,71,1153,13,"2","2",15,1
+"1048","Mosaic Hotels","Urban","One Day Use",12,"3","0",100,6,2,145,5413,10,"2","1",16,4
+"1049","Lakshmi Guest House","Metropolitan","Double Non AC",0,"4","0",100,6,2,130,1320,11,"2","2",15,1
+"1050","Hotel Mangalam Palace-Airport","Metropolitan","Double Non AC",0,"3","0",100,6,2,48,1067,10,"2","3",15,1
+"1051","Hotel Global Inn","Metropolitan","Single AC",14,"3","0",100,6,5,115,1706,10,"1","1",17,1
+"1052","Hotel Rest Inn","Metropolitan","Single AC",10,"3","0",100,6,2,102,930,10,"2","1",17,1
+"1053","Trinca Residency","Metropolitan","Double AC",19,"3","0",100,6,2,144,2395,10,"2","2",14,1
+"1054","Hotel Didi International","Metropolitan","Single AC",51,"3","0",100,6,2,92,2083,13,"2","1",17,1
+"1055","Lucknow Guest Inn","Metropolitan","Single AC",83,"3","0",100,6,3,2,1778,16,"2","1",17,1
+"1056","Ayaan Residency","Metropolitan","Double AC",5,"3","0",100,6,6,87,1200,11,"2","2",14,1
+"1057","Garden View Inn Lucknow","Metropolitan","Single Non AC",3,"3","1",100,6,2,290,1970,4,"2","1",18,1
+"1058","Hotel ANR","Metropolitan","Single Non AC",11,"3","0",100,6,2,151,1780,11,"2","1",18,1
+"1059","ITT INN","Metropolitan","Double Non AC",1,"3","0",100,6,4,2,1700,12,"0","2",15,1
+"1060","Hotel Harsh Palace","Metropolitan","Double Non AC",9,"3","0",100,6,2,107,922,9,"2","2",15,1
+"1061","Hotel Yash","Metropolitan","Double Non AC",33,"3","0",100,6,2,100,1689,12,"2","2",15,1
+"1062","Hotel Royal Inn","Metropolitan","Single AC",11,"3","0",100,6,5,136,3114,12,"2","1",17,1
+"1063","Noida Guest House","Urban","Double Non AC",1,"4","0",100,6,2,76,1436,9,"2","2",15,4
+"1064","Athithi Inn","Metropolitan","Double Non AC",44,"3","0",100,6,2,91,2707,11,"2","2",15,1
+"1065","Hotel Surya Shelter","Metropolitan","Double AC",49,"3","0",100,6,2,2,1650,10,"2","2",14,1
+"1066","Presidency Inn","Metropolitan","Single AC",53,"3","0",100,6,2,88,2387,13,"1","1",17,1
+"1067","Gehloths Guest House","Metropolitan","Double Non AC",1,"4","0",100,6,2,2,778,2,"2","2",15,1
+"1068","Wood Stock Guest Villa","Metropolitan","Single AC",1,"8","0",100,6,2,113,1134,12,"2","2",17,1
+"1069","Hotel Raj International","Metropolitan","Double AC",2,"3","0",100,6,2,100,1500,9,"2","2",14,1
+"1070","Bhatia Guest House","Metropolitan","Single AC",33,"4","0",100,6,2,132,1800,15,"2","1",17,1
+"1071","Hotel Charans International","Metropolitan","Single AC",12,"3","0",100,6,2,108,1959,11,"2","1",17,1
+"1072","Tavisha Hotel","Metropolitan","Double AC",9,"3","0",100,6,6,115,4818,12,"2","2",14,1
+"1073","Oakwood Inn Bed And Breakfast","Metropolitan","Double AC",1,"3","0",100,6,2,86,1889,13,"2","2",14,1
+"1074","Geeta Guest House","Metropolitan","4 Bedded AC",3,"4","1",100,6,2,106,3423,2,"2","4",6,1
+"1075","Hotel Sunrise Inn","Metropolitan","Single AC",10,"3","0",100,6,5,137,2930,12,"2","1",17,1
+"1076","Hotel Radhey Inn","Metropolitan","Double Non AC",10,"3","0",100,6,2,2,712,11,"2","2",15,1
+"1077","Cameo Homes","Metropolitan","Double Non AC",1,"3","1",100,6,8,7,3778,12,"0","2",15,1
+"1078","Hotel Elora","Metropolitan","Double AC",20,"3","0",100,6,5,111,1387,11,"2","2",14,1
+"1079","PK Service Apartment","Metropolitan","2 BHK",9,"1","0",100,6,2,119,5570,14,"2","4",3,1
+"1080","Cedar Court Bed Breakfast","Metropolitan","Double Non AC",1,"3","1",100,6,4,205,2362,10,"0","2",15,1
+"1081","Hotel Umang","Metropolitan","Single AC",8,"3","0",100,6,2,162,1348,11,"2","1",17,1
+"1082","Hotel Vinayak","Metropolitan","Single AC",16,"3","0",100,6,3,126,1592,11,"1","1",17,1
+"1083","Colossal Apartment","Metropolitan","Double AC",4,"1","1",100,6,2,2,2834,2,"2","2",14,1
+"1084","The Residency Inn","Metropolitan","Single AC",39,"3","1",100,6,3,121,1494,2,"2","1",17,1
+"1085","Hotel Deep Palace","Metropolitan","Single AC",12,"3","0",100,6,2,137,5000,12,"2","1",17,1
+"1086","Thikana Delhi Guest House","Metropolitan","Single AC",11,"4","0",100,6,4,121,6015,2,"1","1",17,1
+"1087","Hotel Centro","Metropolitan","Single Non AC",42,"3","0",100,15,2,62,534,9,"1","1",18,1
+"1088","Sanjoy Lodge","Metropolitan","Double AC",1,"5","1",100,6,4,2,1778,12,"0","2",14,1
+"1089","Hotel SRG","Metropolitan","Single Non AC",8,"3","0",100,23,2,82,889,13,"2","1",18,1
+"1090","Hotel SP International","Metropolitan","Single AC",35,"3","0",100,6,2,177,1666,11,"2","1",17,1
+"1091","The Heritage Hotel and Resort","Metropolitan","Double AC",9,"6","0",100,6,2,2,2800,2,"2","2",14,1
+"1092","Hotel Sunrise Annexe","Metropolitan","Single Non AC",12,"3","0",67,1,2,2,556,8,"1","0",18,1
+"1093","Hotel Inder Regency","Metropolitan","Single Non AC",17,"3","0",100,6,2,118,567,10,"2","1",18,1
+"1094","Deepak Guest House","Metropolitan","Single AC",7,"4","0",100,6,4,88,1650,2,"1","1",17,1
+"1095","Hotel Simla Palace","Metropolitan","Single AC",12,"3","0",100,6,2,98,1348,11,"2","1",17,1
+"1096","Hardik Guest House","Metropolitan","One Day Use",26,"4","0",100,6,2,114,1813,15,"2","1",16,1
+"1097","Hotel Madhwan","Metropolitan","Double Non AC",1,"3","0",100,6,2,2,612,10,"2","2",15,1
+"1098","Shaloo Homestay","Metropolitan","Double Non AC",34,"2","1",100,6,2,2,1667,2,"2","2",15,1
+"1099","Raunak Guest House","Metropolitan","Double Non AC",24,"4","0",100,6,5,2,1249,10,"2","2",15,1
+"1100","Hotel New Kumar","Metropolitan","Double AC",9,"3","0",100,6,2,152,667,11,"2","2",14,1
+"1101","Harish Chandra Guest House","Metropolitan","Single Non AC",15,"4","0",100,6,2,2,356,4,"1","1",18,1
+"1102","Hotel Manglam Palace","Metropolitan","Single Non AC",63,"3","0",100,6,3,126,667,11,"1","1",18,1
+"1103","Saubhagyam Residency","Metropolitan","Single Non AC",10,"3","0",100,6,2,112,2568,2,"2","1",18,1
+"1104","Hotel Diamond","Metropolitan","Double AC",2,"3","0",100,6,6,88,1453,9,"2","2",14,1
+"1105","Nirmal Palace Hotel","Metropolitan","Single AC",0,"3","0",100,6,2,115,1133,11,"2","1",17,1
+"1106","The President Hotel","Metropolitan","Single Non AC",0,"3","0",100,6,2,118,1949,14,"2","1",18,1
+"1107","Hotel Natraj","Metropolitan","Double Non AC",0,"3","0",100,6,2,95,685,10,"2","2",15,1
+"1108","Function Inn","Metropolitan","Single AC",39,"3","0",100,6,5,124,1780,12,"2","1",17,1
+"1109","Hotel Sunrise","Metropolitan","One Day Use",35,"3","0",100,6,2,147,528,10,"2","1",16,1
+"1110","Hotel Rana International","Metropolitan","Single AC",22,"3","0",100,6,2,122,1334,10,"2","1",17,1
+"1111","Coral Hotel","Metropolitan","One Day Use",43,"3","0",100,6,5,142,2068,12,"2","2",16,1
+"1112","Garden Gates Inn","Metropolitan","Single AC",36,"3","0",100,6,2,128,1067,14,"2","1",17,1
+"1113","Kamakshi Palace","Metropolitan","Double AC",24,"3","0",100,6,4,76,1998,12,"2","2",14,1
+"1114","Hotel Amit","Metropolitan","Double Non AC",26,"3","0",100,6,4,99,500,8,"2","2",15,1
+"1115","Lucknow Homestay","Metropolitan","Single Non AC",5,"2","1",100,6,3,55,889,2,"2","1",18,1
+"1116","De Global Park","Metropolitan","Double AC",30,"3","0",100,6,2,2,2947,11,"2","3",14,1
+"1117","Hotel Monarch Inn","Metropolitan","Single AC",14,"3","0",100,6,2,96,1622,11,"2","1",17,1
+"1118","Vindhyawasini Guest House","Metropolitan","Double AC",27,"4","0",100,6,2,2,1334,10,"2","2",14,1
+"1119","MLA Guest House","Metropolitan","Double Non AC",35,"4","0",100,6,4,103,1200,11,"2","2",15,1
+"1120","Hotel Awadh Inn","Metropolitan","Double Non AC",3,"3","0",100,6,3,87,2223,12,"2","2",15,1
+"1121","Austha Guest House","Metropolitan","Double Non AC",20,"4","0",100,6,2,2,778,14,"2","2",15,1
+"1122","Chandra Guest House","Metropolitan","Double AC",23,"4","0",100,24,2,79,1334,11,"2","2",14,1
+"1123","Hotel Ganga Maiya","Metropolitan","Double AC",32,"3","0",100,6,2,138,1666,11,"2","2",14,1
+"1124","Europe Plaza Hotel","Metropolitan","Single AC",0,"3","0",100,6,2,2,1302,11,"2","1",17,1
+"1125","Samarpan Vindhyawasini Farm House","Metropolitan","Double AC",38,"4","0",100,6,2,2,1657,13,"2","2",14,1
+"1126","Mohan Homestay","Metropolitan","Double Non AC",4,"2","1",100,6,2,2,889,2,"2","2",15,1
+"1127","Hotel Lloyd Residency","Metropolitan","Single AC",4,"3","0",100,6,8,62,2735,11,"2","1",17,1
+"1128","Hotel Metro","Metropolitan","Double Non AC",9,"3","0",0,0,4,2,578,7,"2","2",15,1
+"1129","Hotel Ivory 32","Metropolitan","Single Non AC",13,"3","0",100,6,4,127,5412,13,"2","1",18,1
+"1130","Svelte Hotel And Personal Suites","Metropolitan","Single AC",24,"3","0",100,6,11,143,8587,10,"2","1",17,1
+"1131","Elora Guest House","Metropolitan","Single AC",14,"4","0",100,6,6,99,1334,11,"2","1",17,1
+"1132","Intercity Guest House","Metropolitan","Double Non AC",33,"4","0",100,6,2,119,800,14,"2","2",15,1
+"1133","Hotel Stay Inn International","Metropolitan","Single AC",14,"3","0",100,6,6,125,1502,9,"2","1",17,1
+"1134","Prabhu Niwas Guest House","Metropolitan","Double Non AC",26,"4","0",100,6,4,2,389,6,"2","2",15,1
+"1135","Hotel Sky High","Metropolitan","Single AC",5,"3","0",100,6,4,109,1736,10,"2","1",17,1
+"1136","Saubhagya Inn","Metropolitan","Single Non AC",15,"3","0",100,6,2,160,2595,14,"2","1",18,1
+"1137","Hotel Mohan","Metropolitan","Single Non AC",13,"3","0",100,6,2,125,2267,12,"2","1",18,1
+"1138","Hotel Manglam","Metropolitan","Single Non AC",16,"3","0",100,6,2,107,2446,3,"2","1",18,1
+"1139","Hotel Anant","Metropolitan","Dormitary",10,"3","0",100,6,2,135,463,10,"2","1",13,1
